@@ -1,31 +1,1537 @@
-Annonce,Prix,Localisation,Configuration des pièces,Type de bien,Type de transaction,Superficie,Salles de bains,Chambres,Autre
-"Appartement en S+2 de 128,80 m² (A41) au 4éme étage",354000,Ariana,S+2,Appartement,À Vendre,128.80,2,2,Climatisation
-"Appartement en S+2 de 132,80m² (A35) au 3ème étage",350300,Ariana,S+2,Appartement,À Vendre,132.80,2,2,Celliers
-"A vendre un Local Commercial (M-09)de 69,95m²",,Ben Arous,,Local Commercial,À Vendre,69.95,1,1,Caméra de surveillance
-"A vendre un Local Commercial (M-14)de 58,50m²",,Ben Arous,,Local Commercial,À Vendre,58.88,1,,Chauffage central
-"A vendre un appartement S+3  de 108,21 m²  au 4éme étage",500000,Nabeul,S+3,Appartement,À Vendre,108.21,2,3,Vue sur mer
-"Appartement (A1-1) en S+1 de 55,48m² au premier étage",316613,Tunis,S+1,Appartement,À Vendre,55.48,1,1,Climatisation
-"Appartement en S+2 de 80,23m² (E202) à Chatt Mariem",401000,Sousse,S+2,Appartement,À Vendre,80.23,2,2,Vue sur mer
-Une Villa de 354.07m²,,Ariana,,Villa,À Vendre,354.07,,4,Chauffage central
-Une Villa de 339.07m²,,Ariana,,Villa,À Vendre,,,3,Chauffage central
-Une Villa de 346.52m²,,Ariana,,Villa,À Vendre,346.52,,4,Chauffage central
-Une Villa de 365.05m²,,Ariana,,Villa,À Vendre,365.05,,4,Chauffage central
-Une Villa de 514.32m²,,Ariana,,Villa,À Vendre,514.32,,5,Chauffage central
-Une Villa de 367.64m²,,Ariana,,Villa,À Vendre,367.64,,4,Chauffage central
-Une Villa de 367.64m²,,Ariana,,Villa,À Vendre,367.64,,4,Chauffage central
-Une Villa de 515.50m²,,Ariana,,Villa,À Vendre,515.50,,5,Chauffage central
-Une Villa de 346.70m²,,Ariana,,Villa,À Vendre,346.70,,4,Chauffage central
-Une Villa de 355.20m²,,Ariana,,Villa,À Vendre,355.20,,4,Chauffage central
-Une Villa de 415.74m²,,Ariana,,Villa,À Vendre,415.74,,4,Chauffage central
-Une Villa de 365.05m²,,Ariana,,Villa,À Vendre,365.05,,4,Climatisation
-Une Villa de 355.20m²,,Ariana,,Villa,À Vendre,355.20,,4,Chauffage central
-DUPLEX :  de 226 à 245m²,,Tunis,,Duplexe,À Vendre,,,,Terrasse
-S+1 : entre 53 et 73m²,,Tunis,S+1,Appartement,À Vendre,,,,Chauffage central
-S+2 : entre 101 et 119 m²,,Tunis,S+2,Appartement,À Vendre,,,2,Chauffage central
-S+3 : entre 143 et 158m²,,Tunis,S+3,Appartement,À Vendre,,,3,Chauffage central
-"Appartement en S+2 de 133,10 m² (A12) au1er étage",385300,Ariana,S+2,Appartement,À Vendre,133.10,2,2,Celliers
-"Duplex (A04) en S+3 de 175,3 m² au RDC",599700,Ariana,S+3,Duplexe,À Vendre,175.3,3,3,Climatisation
-"A vendre un appartement S+2  de99,28 m²  au 1ére  étage",425000,Nabeul,S+2,Appartement,À Vendre,99.28,2,2,Vue sur mer
-"A vendre un appartement S+2  de 101,62 m²  au RDC",495000,Nabeul,S+2,Appartement,À Vendre,101.62,2,2,Vue sur mer
-Appartement en S+1 de 83m² ( D153) à Chatt Mariem,465000,Sousse,S+1,Appartement,À Vendre,83,1,1,Vue sur mer
-"Appartement en S+2 de 90,69m² ( F55) à Chatt Mariem",375000,Sousse,S+2,Appartement,À Vendre,90.69,1,2,Vue sur mer
+Annonce,Prix,Localisation,Configuration des pièces,Type de transaction,Superficie,Salles de bains,Chambres
+a louer un appartement S1 HTS avec un place parking   a la nouvelle medina 3,700,Ben Arous,,À Louer,70,1,1
+location par nuitée,,Tunis,,À Louer,69,2,2
+S1 S2 S3 par nuitée,,Tunis,,À Louer,75,1,1
+A louer  un appartement S2 100m2 au Lac 2,1600,Tunis,,À Louer,100,1,2
+📍 CITE FAOUZ : VILLA A USAGE BUREAUTIQUE OU HABITATION À LOUER,3500,Ariana,,À Louer,400,6,5
+📍JARDINS D’EL MENZAH 2 : APPARTEMENT S+2 A LOUER,1150,Ariana,S+2,À Louer,120,1,2
+Av maison 700m pas loin de Hammamet 99958728,350000,Nabeul,,À Vendre,700,2,3
+S+1 de Luxe dans une résidence avec piscine à AFH Mrezga Nabeul,235599,Nabeul,S+1,À Vendre,62,1,-1
+👨🏼‍💻A louer un bureau À+2 Neuf à Sousse,1400,Sousse,,À Louer,100,1,2
+a vendre s+2 rez de chaussée villa route de Tunis,145000,Sfax,,À Vendre,150,2,2
+A louer un S+1 meublé à cité les Palmeraies,1250,Tunis,S+1,À Louer,60,1,1
+APPARTEMENT s+1 meublé à Menzah 9C,1400,Tunis,,À Louer,70,1,1
+📍L'AOUINA : APPARTEMENT S+2  MEUBLE A LOUER,1650,Tunis,S+2,À Louer,0,1,2
+📍MENZAH 9 C : APPARTEMENT S+2 A LOUER,1450,Tunis,S+2,À Louer,0,1,2
+Appartement S+2 à Vendre,165000,La Manouba,S+2,À Vendre,83,1,2
+Dépôt atelier,1300,Tunis,,À Louer,340,1,2
+A louer appartement s1 richement meublé a jardin de l'aouina,950,Tunis,,À Louer,69,1,1
+A vendre 1000 m² a El ksibi 2 Mornag,60,Ben Arous,,,,,
+dépôt ou bien usine en charpente,,Ariana,,À Louer,1300,2,10+
+luxueux appartement lac 2,140,Tunis,,À Louer,65,1,1
+À louer par #jour S1 meublé + garage pour voiture à sousse ville près de gazarna sousse et clinique yosr et prés de tout commodité num : 58 770 620 للكراء باليوم استديو بسوسة بجانب مصحة اليسر و بجانب الاكاديمية العسكرية . الرقم: 58770620 whatapp; +21626996231,7,Sousse,,À Louer,120,1,1
+S2 bureautique Ennaser 2,1400,Ariana,,À Louer,115,1,2
+entrepreneur 95127150,500,Tunis,,À Louer,200,1,4
+𝔸 𝕍𝔼ℕ𝔻ℝ𝔼 un bel appartement à Mrezga 29256226,,Nabeul,,À Vendre,100,1,2
+APPARTEMENT s+3 AVEC JARDIN A ENNASR 1,,Ariana,,À Vendre,218,2,3
+📍ENNASR 2 : APPARTEMENT S+2  MEUBLE A LOUER,1700,Ariana,S+2,À Louer,0,1,2
+📍ENNASR 1 : APPARTEMENT S+1 A VENDRE,180000,Ariana,S+1,À Vendre,55,1,1
+APPARTEMENT s+3 avec Jardin aux Jardins d'El Menzah 2,1300,Ariana,,À Louer,150,2,3
+Av maison 1200m non fini à Hammamet sud ❌99958728❌,155000,Nabeul,,À Vendre,1200,2,3
+Une jolie villa à Manar 2,1800000,Tunis,,À Vendre,574,3,4
+📍ENNASR 1: APPARTEMENT S+2 A LOUER,1400,Ariana,S+2,À Louer,0,2,2
+Réf 3237 : Des Lots à Vendre à Borj Ghamez Bizerte,270,Bizerte,,,,,
+A louer: Appartement aux Jardins De Carthage,3800,Tunis,,À Louer,170,0,3
+A louer S+1 meublé à la Marsa plage,1600,Tunis,S+1,À Louer,40,0,1
+A louer un bel appartement S+2 à La soukra,1100,Ariana,S+2,À Louer,110,0,2
+A louer un appartement à La Marsa Plage,1800,Tunis,,À Louer,80,0,1
+A louer appartement à Sid Daoud,2000,Tunis,,À Louer,100,0,2
+A louer appartement à Sid Daoud,2500,Tunis,,À Louer,100,0,2
+قطعة أرض للبيع بالحاجب صفاقس,90000,Sfax,,,,,
+A louer un appartement à Marsa Plage,2800,Tunis,,À Louer,150,1,2
+Ain- zaghouan S+2 à vendre,200000,Tunis,S+2,À Vendre,90,1,2
+Laouina à louer S+2 usage bureau,900,Tunis,S+2,À Louer,95,1,2
+à louer un appartement en plein centre ville tunis,900,Tunis,,À Louer,90,1,3
+Laouina bureau à louer,800,Tunis,,À Louer,78,1,1
+Ain-Zaghouan nord S+4 meublé à louer,3500,Tunis,S+4,À Louer,200,3,4
+Location vacances courte durée,90,Tunis,,À Louer,100,1,1
+Laouina terrain 519² à vendre,,Tunis,,,,,
+location appartement cité les palmiers l'aouina,100,Tunis,,À Louer,60,1,1
+location appartement cité les palmerais laouina,100,Tunis,,À Louer,70,1,1
+studio meublé à laouina,90,Tunis,,À Louer,70,1,2
+studio meublé à louer,90,Tunis,,À Louer,65,1,2
+ارض صالحة للبناء مساحة 150 م2,70000,La Manouba,,,,,
+Terrain a vendre,,Sfax,,,,,
+studio meublé a laouina,90,Tunis,,À Louer,57,1,2
+Appartements à 700 mètres plage Mansourah Kelibia,79000,Nabeul,,À Vendre,100,1,1
+Av terrain 2800m avec oliviers à Hammamet sud❌99958728❌,90000,Nabeul,,,,,
+A louer appartement s+2 a Ain zaghouan,850,Tunis,,À Louer,97,1,2
+Appartement haut standing,,Sousse,,,,,
+A vendre des appartements direct promoteur haut standing a la nouvelle soukra,,Tunis,,À Vendre,1,1,1
+a vendre s+2,340000,Tunis,,À Vendre,117,1,2
+🏖Location Vacances: Appartement S+1 -Corniche Centre ville Mahdia,,Mahdia,S+1,À Louer,80,1,1
+A louer appartement s1 meublé avec abri de voiture a jardin de l'aouina,950,Tunis,,À Louer,69,1,1
+Terrain première position rte gremda,,Sfax,,,,,
+a vendre des locaux commercial aux jardins de l'aouina,250000,Tunis,,À Vendre,46,1,1
+Chotrana Nour Jaafar Open Space 400 m,2500,Ariana,,À Louer,400,1,1
+appartement s+2 Menzah 8,1200,Ariana,,À Louer,120,2,1
+REZ-DE-CHAUSSÉE DE VILLA S+4 AUX JARDINS D’EL MENZAH 2,2000,Ariana,S+4,À Louer,200,3,4
+appartement s+1 à Ennasr 2,850,Ariana,,À Louer,50,1,1
+L'Aouina local 40m² a louer,1100,Tunis,,À Louer,40,1,1
+A louer appartement s2 a Ain zaghouan,,Tunis,,À Vendre,97,1,2
+Borj-Louzir S2 usage bureau à louer,900,Ariana,,À Louer,73,1,2
+📍ARIANA : APPARTEMENT S+2 A LOUER,800,Ariana,S+2,À Louer,0,1,2
+un appartement a louer à cité el jala bizerte,700,Bizerte,,À Louer,,1,3
+Laouina local com. 50 m² mezzanine à louer,2000,Tunis,,À Louer,50,1,1
+Borj-Touil locaux commerciaux à vendre,500000,Ariana,,À Vendre,460,1,4
+"Promoteurs, particuliers, investisseurs cela vous intéresse",850,Sfax,,À Vendre,,3,12
+📍MENZAH 9 C : APPARTEMENT S+1 À LOUER,1100,Tunis,S+1,À Louer,0,1,1
+à louer un s+3 à Cité El Wahat,1450,Tunis,,À Louer,170,3,3
+📍LES BERGES DU LAC 1 : VILLA S+5,4200,Tunis,S+5,À Louer,0,3,5
+à vendre un bureau H+4 aux JDC,740000,Tunis,,À Vendre,184,2,4
+"la  Marsa  centre  ville , loue  un  appt  un  S + 2 , loyer : 1200 d / mois  , tél : 29 318 386",,Tunis,,À Louer,70,2,2
+Maison indépendante proche de la mer en vente,174999,Monastir,,À Vendre,219,01,01
+à louer ou à vendre un bureau H4 aux JDC,3500,Tunis,,À Louer,184,2,4
+Terrain agricole à vendre,220,Sousse,,,,,
+Av villa de 700m avec piscine à Hammamet sud❌99202001❌,580000,Nabeul,,À Vendre,700,2,3
+Terrain a jardins de tunis- manouba,,La Manouba,,,,,
+S3 AUX JARDINS D EL MENZAH 2,360000,Ariana,,À Vendre,130,2,3
+A Vendre Un Grand Duplex S+4  Manar 1  bien entretenu,470000,Tunis,S+4,À Vendre,180,2,4
+s3 richement meublé,2500,Tunis,,À Louer,200,2,3
+A vendre 2 lot de 600 m2 route mahdia errached près club karim et el wassit.,80000,Sfax,,,,,
+📍 ENNASR 2 : ETAGE DE VILLA  S+2 AVEC SÉJOUR A LOUER,1300,Ariana,S+2,À Louer,140,2,2
+📍 ALAIN SAVARY  : BUREAU H+2 À LOUER,2200,Tunis,,À Louer,90,1,2
+dressing,1111,Ben Arous,,À Vendre,111111,11111,111111
+appartement s+1 a Ennasr 2,860,Ariana,,À Louer,70,1,1
+un rdc de villa s+3 aux Jardins d’El Menzah 1,1500,Ariana,,À Louer,150,1,3
+Duplex Ennasr avec jardin,,Ariana,,À Vendre,200,1,3
+appartement s+1 de haut standing aux Hardins d’El Menzah 1,750,Ariana,,À Louer,70,1,1
+Lac 2,1800,Tunis,,À Louer,60,1,1
+Bardo,4500000,Tunis,,À Vendre,1280,1,2
+📍 BORJ LOUZIR   : LOCAL COMMERCIAL À LOUER,650,Ariana,,À Louer,20,1,1
+📍 LES COLLINES D’ENNASR : APPARTEMENT S+3  A LOUER,2000,Ariana,S+3,À Louer,176,3,3
+La Soukra,1500,Ariana,,À Louer,150,2,4
+La Soukra,1300,Ariana,,À Louer,1300,2,3
+Lac 2,2100,Tunis,,À Louer,110,1,2
+Enasser 2,1100,Ariana,,À Louer,60,1,1
+appartement s4 rdc a Riadh El Andalous,1200,Ariana,,À Louer,140,2,3
+A LOUER S+2 – EL WAHAT – TEL 58258423 – FB.7085,1100,Tunis,S+2,À Louer,116,1,2
+Aouina,910,Tunis,,À Louer,60,1,1
+Sidi bou said,2000,Tunis,,À Louer,130,1,3
+Aouina,1250,Tunis,,À Louer,90,1,2
+La marsa,1000,Tunis,,À Louer,75,1,1
+📍 L’AOUINA : APPARTEMENT S+3 A VENDRE,400000,Tunis,S+3,À Vendre,157,2,3
+Local commercial a louer,,Ben Arous,,À Louer,,1,1
+Appartement  S1 Meublé,2100,Tunis,,À Louer,50,1,1
+معمل للبيع,,Monastir,,,,,
+APPARTEMENT s+1 meible à Menzah 9,1200,Tunis,,À Louer,70,1,1
+📍 ALAIN SAVARY  : BUREAU H+2 À LOUER,5000,Tunis,,À Louer,320,2,3
+terrain à Zarzis,300000,Médenine,,,,,
+بناء المساكن و المحال التجارية 22543956,40000,Tunis,,,,,
+a louer magnifique etage de villa s3 avec garage a menzah 9,1350,Tunis,,À Louer,160,2,3
+A vendre un appartement S+3 spacieux a Ain zaghouan,290000,Tunis,S+3,À Vendre,137,2,3
+وسيط عقاري,,Tunis,,À Vendre,1,1,1
+A vendre :  Villa de lux avec piscine 200m de la plage Mimosa Mrezga Nabeul,850000,Nabeul,,À Vendre,400,2,4
+à louer appartement studio meublé s1 ennasr location par jour nuitée,80,Tunis,,À Louer,111,1,1
+A vendre Garage Mourouj 5,85000,Ben Arous,,À Vendre,35,0,1
+à louer appartement studio meublé location par jour nuitée,70,Tunis,,À Louer,111,1,1
+1 ére étage appartement s+2,320000,Tunis,,À Vendre,100,2,3
+A VENDRE S+1 -SOUKRA – TEL 52026677 – FB.6692,165000,Ariana,S+1,À Vendre,55,1,1
+A LOUER S+2 MEUBLE – L’AOUINA – TEL 56306032 – FB.6890,1200,Tunis,S+2,À Louer,100,1,2
+A LOUER UN ETAGE DE VILLA S+3 A RADES MELIANE 2 AVEC UNE ENTRÉE  INDÉPENDANTE,750,Ben Arous,S+3,À Louer,110,1,3
+A LOUER S+2 – EL WAHAT – TEL 52026677 – FB.7066,1000,Tunis,S+2,À Louer,90,1,2
+A VENDRE S+2 – AOUINA – TEL 52026677– FB.5311,220000,Tunis,S+2,À Vendre,85,1,2
+A VENDRE VILLA – AOUINA – TEL 52026677 – FB.4736,,Tunis,,,500,3,4
+A VENDRE- FOND DE COMMERCE–CITE WAHAT– TEL 52026677– FB.6969,120000,Tunis,,À Vendre,70,2,2
+A LOUER – S+2 –EL WAHAT – TEL 52026677 – FB.7072,1250,Tunis,S+2,À Louer,120,2,2
+أستوديو للكراء باليوم في المنزه السابع بجانب حي النصر  2,90,Ariana,,À Louer,80,1,2
+A LOUER S+3 – LA SOUKRA – TEL 56306032 – FB.6993,1300,Ariana,S+3,À Louer,119,1,3
+S+2 avec grande terrasse et vue à manzah 7 bis,115,Ariana,S+2,À Louer,90,1,2
+A LOUER S+3  – AOUINA – TEL 56306032 – FB.7021,1200,Tunis,S+3,À Louer,120,1,3
+شقة ممتازة للإيجار باليوم في المنزه السابع بجانب حي النصر,115,Ariana,,À Louer,95,1,2
+Appartment S+2 Khaznadar Bardo,850,Tunis,S+2,À Louer,,2,3
+S+1 meublé avec wifi et smart tv à manzah 7 bis,85,Ariana,S+1,À Louer,79,1,1
+Etage de villa en location,1000,Bizerte,,À Louer,125,1,3
+أستوديو مؤثث للإيجار باليوم أو بالشهر في حي النصر 1,90,Ariana,,À Louer,80,1,2
+Bureau à louer,,Monastir,,À Louer,125,1,3
+A vendre un appartement en s+3,350000,Tunis,,À Vendre,150,2,0
+شقة ممتازة للإيجار باليوم في المنزه السابع بجانب حي النصر,110,Ariana,,À Louer,95,1,2
+A louer un appartement en s+2 à l'aouina,1350,Tunis,,À Louer,125,1,2
+Villa individuelle en location,2500,Sousse,,À Louer,1776,1,2
+A louer cabinet médical / bureau S+2 à  Borj Louzir Ariana,1050,Ariana,S+2,À Louer,80.0,2.0,2.0
+𝐀 𝐕𝐄𝐍𝐃𝐑𝐄 un appartement zone hôtel fell et nozha,,Nabeul,,À Vendre,90,1,2
+A vendre appartement s1 chez promoteur a cité el wahatt,180000,Tunis,,À Vendre,49,1,1
+A vendre VILLA INACHEVEE 238m2 à Borj Louzir,370000,Ariana,,À Vendre,238,3,4
+Av 3garages sur la route à Hammamet sud❌99958728❌,210000,Nabeul,,À Vendre,,,
+Terrain d’habitation à Jinen Mansourah Kelibia,175000,Nabeul,,,,,
+A vendre appartement s2 chez promoteur a cité el wahatt,251000,Tunis,,À Vendre,90.40,1,2
+Villa Toscana à Vendre à Boumhel,1200000,Ben Arous,,À Vendre,1440,4,8
+A LOUER UN JOLIE S3 RICHEMENT MEUBLÉ,1900,Ariana,,À Louer,150,2,3
+Bureau A+4 au Coeur de Menzah 6 Centre Jamil,1200,Ariana,,À Louer,120,3,5
+A vendre appartement s2 chez promoteur a cité el wahatt,250000,Tunis,,À Vendre,88.40,1,2
+À VENDRE VILLA  CÔTÉ Chotrana 3,2000,Ariana,,À Vendre,1800,00,00
+A LOUER UN APPARTEMENT S+2 A RADES MELIANE PRES DE LA GARE,800,Ben Arous,S+2,À Louer,100,1,2
+Etage de villa s+3 Ã  La nouvelle madina 3,800,Ben Arous,,À Louer,120,2,3
+Bureau A+6 200m² haut standing à Menzah 5,3000,Ariana,,À Louer,200,2,6
+ارض بناء,45,Kébili,,,,,
+"Cite Jawhara, s+2 près plage, Panorama, Monopix et école internationale，",600,Sousse,,À Louer,3,1,2
+Magasin de stockage ou atelier 240 m avec force en top état général,1050,Sousse,,À Louer,240,1,1
+Location vacances courte durée,80,Tunis,,À Louer,70,1,1
+Usine a louer dans la zone industrielle de sidi abdelhamid agréé classe A,4200,Sousse,,À Louer,520,2,2
+A louer S+2 A la Soukra,1300,Ariana,S+2,À Louer,128,2,2
+"587 m , Un terrain à l' habitat collectif de type isolé / R+4",210000,Sousse,,,,,
+un joli appartement s+2 RDC à khzema charkia,750,Sousse,,À Louer,95,1,2
+Dépôt pour stocker des marchandises 500 mètres carrés facile à proche,2200,Sousse,,À Louer,500,1,1
+À louer un entrepôt ou atelier dans la région d'Akouda 260 m,850,Sousse,,À Louer,260,2,1
+Appartement S+1 Richement Meublé à Louer au Lac 1 – Disponible pour  Longue Durée,1700,Tunis,S+1,À Louer,55,1,2
+Maison à vendre dans la région d'Akouda à proximité de tous les commodités,158000,Sousse,,À Vendre,168,1,3
+location S1 résidence Skander Manouba,700,La Manouba,,À Louer,75,1,1
+Appartement s+2 à Bouganin,119999,Ben Arous,,À Vendre,80,1,2
+Bureau en 4 espaces-100m²-CUN-IFCU125,2000,Tunis,,À Louer,100,0,4
+Bureau en 8 espaces-290m²-CUN-IFCU104,6000,Tunis,,À Louer,290,0,8
+Bureau meublé  en 5 espaces-150m²-CUN-IFCU111,5500,Tunis,,À Louer,150,0,5
+A LOUER UN ETAGE  S+2 A RADES MELIANE 2 AVEC UNE GRANDE TERRASSE,700,Ben Arous,S+2,À Louer,110,2,2
+Bureau en 4 espaces-80m²-CUN-IFCU128,1667,Tunis,,À Louer,80,0,4
+Bureau en 7 espaces-240m²-CUN-IFCU115,7777,Tunis,,À Louer,240,0,0
+S+1 à louer par nuitée à cité ennaser 1,90,Ariana,S+1,À Louer,80,1,1
+Villa plain-pied semi meublée avec un grand jardin à Mutuelleville,4500,Tunis,,À Louer,1000,3,4
+maison rades,200000,Ben Arous,,À Vendre,214,1,4
+شقة أرضية مع حديقة للكراء باليوم أو الشهر في المنزه السابع مكرر,120,Ariana,,À Louer,120,2,2
+appartement s+1à vendre à hergla .,165000,Sousse,,À Vendre,62,1,1
+un appartement s+2 à louer à hamem sousse,1000,Sousse,,À Louer,0,0,2
+للبيع منزل في منطقة سيدي حسين ، حي بن رحومة،  نهج الآمازون، تقسيم أرض دجلة : 168 م,48000,Tunis,,À Vendre,168,1,3
+Appart S+2 vide à Ennasr 2,1400,Ariana,S+2,À Louer,120,2,2
+A LOUER S+2 – EL WAHAT – TEL 58713586 – FB.7085,1100,Tunis,S+2,À Louer,116,1,2
+a vendre s+2 ghazella,270000,Ariana,,À Vendre,114,2,2
+Bureau en 2 espaces - 80m² - LAC 1 - IFCL186,1570,Tunis,,À Louer,80,0,2
+Bureau en 10 espaces-240m²- Lac 1 – IFCL1304,3960,Tunis,,À Louer,240,0,10
+A louer s+2 Haut standing à Ennaser 2,1400,Ariana,,À Louer,135,1,2
+Appart S+1 neuf haut standing à Menzah 9c,1000,Tunis,S+1,À Louer,70,1,1
+A LOUER UN APPARTEMENT S+3 A BOUMHEL,650,Ben Arous,S+3,À Louer,100,2,3
+A vendre appartement s2 spacieux a cité el wahatt,215000,Tunis,,À Vendre,109,1,2
+Bureau en 3 espaces- 140m² - Lac 2- IFCL2166,2200,Tunis,,À Louer,120,0,0
+Bureau cloisonné en 3 espaces - 75m²- Lac 2- IFCL232,1900,Tunis,,À Louer,75,1,3
+S+4 à El Manar I,340000,Tunis,S+4,À Vendre,110,1,4
+A louer s+1,850,Ariana,,À Louer,55,1,1
+Bureau en 6 espaces - 255m²- Lac 3– IFCL328,4200,Tunis,,À Louer,255,0,6
+A LOUER S+1 – LA SOUKRA – TEL 56306032- FB.6913,1350,Tunis,S+1,À Louer,80,1,1
+Villa  sur un terrain de 350 m² à El Manar I,790000,Tunis,,À Vendre,348,3,4
+A VENDRE S0 – SOUKRA – TEL 56306032– FB.6350,120000,Ariana,,À Vendre,40,1,1
+A louer studio S1 à Manar 1,550,Tunis,,À Louer,50,1,1
+Open space -130m²-Montplaisir- IFCM123,3000,Tunis,,À Louer,130,0,10+
+s+1 meublé à louer par nuitée à cité el wahat - l'aouina - soukra une belle résidence,80,Tunis,,À Louer,81,1,2
+Appart S+1 meublé à Ennasr 2,1200,Ariana,S+1,À Louer,70,1,1
+S+2 à El Manar I,780,Tunis,S+2,À Louer,90,1,2
+S+1 meublé à Lafayette,,Tunis,S+1,À Louer,80,1,2
+A vendre joli appartement S2  RDC à Manar 1,255000,Tunis,,À Louer,100,1,2
+Joli duplex à Sidi Bou Said,2500,Tunis,,À Louer,100,2,3
+A VENDRE UN APPARTEMENT S+3 A EZZAHRA,159000,Ben Arous,S+3,À Vendre,90,1,3
+Location S+1 meublé,100,Ariana,S+1,À Louer,70,1,1
+Un S+1 avec une très belle vue sur piscine à vendre à AFH Mrezga Nabeul,260000,Nabeul,S+1,À Vendre,60,1,1
+A vendre maison s+3 a cité el wahatt,340000,Ariana,,À Vendre,210,2,3
+A louer local administratif/commercial,550,Ben Arous,,,,,
+terrain vu sur mer a rafraf,120000,Bizerte,,,,,
+S+1 meublé,100,Tunis,S+1,À Louer,70,1,1
+Bureau en 3 espaces -100m²-Montplaisir- IFCM116,1500,Tunis,,À Louer,100,0,3
+a louer s1 par nuitée,,Tunis,,À Louer,70,1,1
+Immeuble en R+3 -800m²-Montplaisir - IFCM93,17000,Tunis,,À Louer,800,0,10+
+A vendre appartement S3 à Manar 1,215000,Tunis,,À Louer,115,1,3
+appartement jardin de Carthage et lac 2,140,Tunis,,À Louer,65,1,1
+A VENDRE COQUET APPARTEMENT S+2 A NOUVELLE MÉDINA,,Ben Arous,S+2,À Vendre,124,1,2
+A louer coquet appartement S+2 meublé a médina jadida 3,,Ben Arous,S+2,À Louer,115,1,2
+A vendre maison S+3,,Ben Arous,S+3,À Vendre,256,2,4
+appartement S+2 en vente,410000,Sousse,S+2,À Vendre,120,2,2
+A VENDRE S+2 – BOURJ LOUZIR – TEL 56306032– FB.5414,105000,Ariana,S+2,À Vendre,56,1,2
+LOUER S+2- LA SOUKRA – TEL 56306032 – FB.7053,850,Ariana,S+2,À Louer,100,1,2
+A vendre appartement S+2 haut standing à cité Wahat,269999,Tunis,S+2,À Vendre,117,1,2
+A LOUER S+1 – LA SOUKRA – TEL 56306032- FB.6913,1350,Ariana,S+1,À Louer,80,1,1
+Appart S+1 neuf haut standing à Ennasr 2,900,Ariana,S+1,À Louer,70,1,1
+a vendre terrain à sidi thabet,,Ariana,,,,,
+A LOUER S+3 – JARDINS DE L’AOUINA – TEL 56306032 – FB.7042,1400,Tunis,S+3,À Louer,130,1,3
+A vendre appartement s3 a cité el wahatt,285000,Tunis,,À Vendre,139,2,1
+Location Appatement S+3 Mourouj 3,,Ben Arous,S+3,À Louer,110,1,3
+A VENDRE S+1 – LA SOUKRA – TEL 56306032 -FB.6968,180000,Ariana,S+1,À Vendre,55,1,1
+A LOUER UN APPARTEMENT S+2 A EZZAHRA NAKHEL,600,Ben Arous,S+2,À Louer,90,1,2
+A LOUER DEPOT – EL AOUINA – TEL 56306032– FB.7038,2500,Tunis,,À Louer,400,1,1
+Bureau en 5 espaces -70m²-Tunis- IFCT289,1100,Tunis,,À Louer,70,0,5
+A VENDRE S+2 – WAHAT – TEL 56306032 – FB.6946,270000,Tunis,S+2,À Vendre,101,1,2
+A VENDRE VILLA – LA SOUKRA – TEL 56306032 – FB.6715,990000,Ariana,,À Vendre,240,1,3
+appartement à louer rades 28464929,650,Tunis,,À Louer,100,1,2
+Bureau A+3 haut standing à Menzah 5,1550,Ariana,,À Louer,150,2,4
+A VENDRE S+1- CITE EL WAHAT – TEL56306032– FB.6940,181230,Tunis,S+1,À Vendre,51.78,1,1
+"Villa ezzahra 504m²/380.000dt
+😍Opportunité : à vendre une villa à ezzahra cote mongi slim 
+Tel et whastapp Num 28 700 810",380000,Ben Arous,,À Vendre,540,1,4
+A LOUER S+3 – LA SOUKRA – TEL 56306032 – FB.6993,1300,Ariana,S+3,À Louer,120,1,1
+A LOUER S+3 – LA SOUKRA – TEL 56306032 – FB.6993,1300,Ariana,S+3,À Louer,120,1,1
+"🏡 À Vendre : NOUVEAUX APPARTEMENTS "" S+1 , S+2 "" ( DIRECT PROMOTEUR ) 🏡",,Tunis,S+1,À Vendre,,,1
+Terrain A Venre (Chibaw),43,Tunis,,,,,
+محل للكراء شارع خالد ابن وليد عين زغوان شمالية 80م         50522807,1800,Tunis,,À Louer,80,1,1
+À Vendre : Un S+2 situé à Jardin l'Aouina,225000,Tunis,S+2,À Vendre,,,2
+Maison arabesque en vente,280000,Sousse,,À Vendre,215,2,3
+Appartement S+2 en vente,365000,Sousse,S+2,À Vendre,110,2,2
+Appartement s+2 à hammam chatt,169000,Ben Arous,,À Vendre,65,1,2
+A LOUER S+3 – JARDINS EL AOUINA – TEL 56306032 – FB.6958,1400,Tunis,S+3,À Louer,140,1,3
+بناء و ترميم جميع المنازل والمحال التجارية 28852264,300,La Manouba,,,,,
+Appartement s+2 à vendre -Kantaoui-Sousse,1200000,Sousse,,À Vendre,134,2,2
+A louer pour école privée/ emplacement stratégique,,Ben Arous,,À Louer,900,5,10+
+Villa inachevée AFH Nabeul,,Nabeul,,À Vendre,224,0,0
+À Louer : Appartement Usage bureautique Spacieux situé à La Soukra,2000,Ariana,,À Louer,118,,
+A Louer S1 jamais habité à La Nouvelle Soukra,1050,Ariana,,À Louer,60,1,1
+Villa S+4 plain-pied avec jardin à Menzah 5,2500,Ariana,S+4,À Louer,600,2,4
+À Louer : Un appartement S+1 situé à la Nouvelle Soukra,1000,Tunis,S+1,À Louer,,,1
+A vendre un appartement s4 a l'aouina cité wahat,340000,Tunis,,À Vendre,172,2,4
+A Vendre : Un appartement S+2 Direct promoteur situé à La Nouvelle Soukra,,Ariana,S+2,À Vendre,129,,2
+appartement s+3 Menzah 7,1500,Ariana,,À Louer,150,1,4
+"فرصة للاستثمار علي الطريق الرئيسي باب سعدون 
+زوز حوانت تجارية و فوقهم شقة  . 
+الموقع فيه كثافة سكنية و قريب من كل المرافق  800م علي المستشفي الاطفال وامتار محطات الحافلات و تونس العاصمة ....
+📜العقار مرسم في دفتر خانة 
+☎️المهتم يكلمني بالهاتف أو واتساب و الببع بدون وسيط
+22265644
+Beb saadoun a vendre 
+109 Rue Bab Bou Saadoune",110000,Tunis,,À Vendre,38,2,2
+Villa avec terrain,,Sfax,,À Vendre,1226,1,6
+un joli appartement s+2 haut gamme haut standing,700,Sousse,,À Louer,90,1,2
+Terrain à vendre a cham nacim prés de jardin d’el menzah,390,Ariana,,,,,
+Mahdia à vendre terrain,,Mahdia,,,,,
+LOUE  UN GRAND APPARTEMENT  T5 NON MEUBLE SUR UN GRAND BOULEVARD,1200,Sousse,,À Louer,,1,5
+S+2 Menzah 7,900,Tunis,S+2,À Louer,80,1,2
+Appart Toffee à vendre au Kram,350000,Tunis,,À Vendre,190,1,3
+A vendre appartement s3 haut standing a cité el wahatt,285000,Tunis,,À Vendre,139,2,3
+a vendre un appartement s1 direct promoteur a l'aouina cité wahat,167000,Tunis,,À Vendre,48,1,1
+appartement s+2 Riadh andalous,1300,Ariana,,À Louer,140,2,3
+A Louer S+2 usage Bureautique à Bardo 2,1250,Tunis,S+2,À Louer,80,1,2
+Mohamedia. بيع دار بمساحة 130م² بالمحمدية,45,Ben Arous,,À Vendre,130,1,2
+S+3 en vente,320000,Ariana,S+3,À Vendre,113,2,2
+A vendre appartement s3 deux places place de parking a cité el wahatt,290000,Tunis,,À Vendre,145,2,3
+Appart S+3 haut standing avec piscine et salle de sport à Menzah 9c,1750,Tunis,S+3,À Louer,160,2,3
+a vendre un appartement s1 a ain zaghouan,157000,Tunis,,À Vendre,68,1,1
+À louer un spatieux appartement S+2 très haut standing à Ennasr2,1350,Ariana,S+2,À Louer,120,3,2
+Terrain 🔸️,,Ariana,,,,,
+Appartements à 500  de plage à jinan el mansourah kelibia,220000,Nabeul,,À Vendre,100,1,2
+location s1 à cité les palmeraies,800,Tunis,,À Louer,70,1,1
+à louer s+3 jamais habité Riadh andalous,1450,Ariana,,À Louer,150,3,4
+Appartement meublé à Ain Zaghouan,1400,Tunis,,À Louer,60,1,1
+bureau à louer ennasr,1600,Ariana,,À Louer,150,2,4
+Local Commercial Jumana à Louer aux berges du lac1,1600,Tunis,,À Louer,40,0,1
+appartement s+3 menzah 7 bis,1200,Ariana,,À Louer,160,1,4
+À louer un appartement S+2 luxueux à Ennasr2,1300,Ariana,S+2,À Louer,120,2,2
+À louer un appartement S+4 très haut standing à jardin d'El menzah2,2200,Ariana,S+4,À Louer,180,3,4
+A louer un appartement S2 meubler a chat mariem,700,Sousse,,À Louer,1001,1,2
+Terrain a Ariana (344 متر),,Ariana,,,,,
+A vendre un garage,59000,Tunis,,À Vendre,18,1,1
+A vendre appartement s2 haut standing a jardin de l'aouina,255000,Tunis,,À Vendre,107,1,2
+كراء ستوديو مفروش طراز رفيع صفاقس المدينة,80,Sfax,,À Louer,25,1,1
+location s1 à nekhilet,850,Ariana,,À Louer,65,1,1
+location s1 neuf aux jardins de carthage,1700,Tunis,,À Louer,77,2,1
+location s3 à cité les palmeraies,1450,Tunis,,À Louer,160,2,3
+s+1 à louer a cité wahat,800,Tunis,,À Louer,85,1,1
+a louer s1 meublé à riadh el andalous,875,Ariana,,À Louer,55,1,1
+a vendre terrain agricole,420000,Sousse,,,,,
+Appartement S+3 à vendre,220000,Sousse,S+3,À Vendre,107,1,3
+"𝗣𝗮𝗿𝘁𝗶𝗰𝘂𝗹𝗶𝗲𝗿 met en vente un Terrain à bâtir de 508 m² à #Chotrana_1 (Sidi Salah) 🏡
+- 𝐒𝐮𝐩𝐞𝐫𝐟𝐢𝐜𝐢𝐞: 508 m²
+- 𝐄𝐦𝐩𝐥𝐚𝐜𝐞𝐦𝐞𝐧𝐭: Chotrana 1, Sidi Salah
+- 𝐏𝐫𝐢𝐱 𝐩𝐚𝐫 𝐦² : 370 dinars (PAPIER EN RÉGLE)
+- 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐝𝐞 𝐩𝐫𝐨𝐩𝐫𝐢𝐞́𝐭𝐚𝐢𝐫𝐞  : Appelez ou envoyez un message WhatsApp au 53877877",370,Ariana,,,,,
+Jardin d el menzah2 à louer rez jardin villa,1200,Ariana,,À Louer,150,0,3
+a louer rez de jardin à usage bureautique,1200,Ariana,,À Louer,150,2,3
+Terrain à Vendre à Gammarth Supérieur,,Tunis,,,,,
+a vendre terrain viabilisé à sidi thabet,180000,Ariana,,,,,
+"PARTICULIER (À louer ou à vendre)
+🏭Bâtiment industrielle en dur à #mghira_2 (fouchana)de 3000 m2 en 2 etages(1500+1500) sur un terrain de 4200 m2  avec possibilité d'extension 
+➖️Dalle industrielle 
+    Equipement:
+➖️Transfo 450 kva
+➖️Gaz de ville 
+➖️REA et surpresseur avec bâche a eau
+➖️Hauteur utile du bâtiment 6m et 4m etage
+⚜️Administration moderne de 200m2 bloc social
+➖️Convient pour: Dépôt ,usine manufacturière",5,Ben Arous,,À Vendre,4200,1,2
+bon affaire à mnihla (3 min a monoprix jardin el menzah),330000,Ariana,,À Vendre,171,2,3
+"s+2 haut standing à boumhal bassetine en
+
+première étage côté Monoprix
+
+Chauffage central
+
+Deux balcons
+
+Cuisine équipée
+
+Place de stationnement
+
+✓ Ascenseur
+
+Superficie 110 m²
+
+Numéro 28 700 810",240000,Ben Arous,,À Vendre,110,1,3
+A louer un s plus 2 meublé,1600,Tunis,,À Louer,100,1,3
+فرصة للاستثمار في مرناق حي المزيان (حي جديد راقي و الكل عمارات ),125000,Ben Arous,,À Vendre,87,1,3
+"أرض 1236م² للبيع في شطرانة1 
+➖️امكانية تقسيمها 3 او 4 قطع 
+🔹️كل الاوراق القانونية موجودة 
+سعر الم² 220د قابل لنقاش
+☎️لأكثر استفسار من المالك الهاتف او واتساب  
+93009351",,Ariana,,,,,
+منزل مستقل للبيع في قليبية وسط البلاد,350000,Nabeul,,À Vendre,350,1,3
+opportunité à medina jadida 1,130000,Ben Arous,,À Vendre,90,1,2
+À louer : Étage à usage bureautique Au Centre Urbain Nord,,Tunis,,À Louer,260,2,6
+Garage viabilisé en vente à Manar1 proche de la clinique El Manar.,59000,Tunis,,À Vendre,18,0,1
+Appart S+4 neuf haut standing avec une grande terrasse à Menzah 5,3300,Ariana,S+4,À Louer,300,3,4
+A louer un Bureau H3 à Ain Zaghouan Sud,1200,Tunis,,À Louer,145,1,2
+A LOUER MAGNIFIQUE S+1 NEUF CITE EL WAHATE JAMAIS HABITE,1050,Tunis,S+1,À Louer,60,1,1
+Appartement en s+2 Meublé,2600,Tunis,,À Louer,110,2,2
+UN JOLIE S3 A ENNASER,440000,Ariana,,À Vendre,180,3,3
+A vendre studio à Menzah6,155000,Ariana,,À Vendre,45,1,1
+A louer: duplex style arabesque à La Goulette,1800,Tunis,,À Louer,70,0,3
+Appartement s+2 à vendre à Ariana supérieure.,175000,Ariana,,À Vendre,60,1,3
+Appartement meublé a vendre 135 mille dinars vente négociable,135,Sousse,,À Vendre,69,1,2
+A louer villa à La Marsa,5500,Tunis,,À Louer,600,0,4
+A louer une villa avec jardin  à la Marsa,4000,Tunis,,À Louer,600,3,5
+Deux appartements S+2 et S+3 en location à Marsa Tabak.,1399,Tunis,S+2,À Louer,00,1,3
+"A Vendre un S+1, en cours de construction, dans une résidence avec piscine à AFH Mrezga Nabeul.",246000,Nabeul,S+1,À Vendre,65,1,1
+S+2 meublé pour location annuelle à la plage de Beni-khiar disponible,700,Nabeul,S+2,À Louer,00,1,2
+Spacieux studio en location à Manar1,500,Tunis,,À Louer,00,1,1
+fonds commercial  a vendre a Bizerte,,Bizerte,,À Vendre,20,1,1
+Fond commerciale à vendre a Bizerte,22000,Bizerte,,À Vendre,40,,1
+appartement retapé a Menzah 7,320000,Ariana,,À Vendre,120,1,3
+duplex en vente a Bizerte,340000,Bizerte,,À Vendre,,2,2
+Duplex en vente à Bizerte,375000,Bizerte,,À Vendre,194,2,3
+villa  en vente à  corniche Bizerte,1600000,Bizerte,,À Vendre,1474,3,4
+Villa individuelle en vente a Bizerte corniche,1380000,Bizerte,,À Vendre,873,3,4
+UN JOLIE S3 AVEC UNE TERASSE,1600,Tunis,,À Louer,180,3,3
+villa en  vente Corniche Bizerte,1850000,Bizerte,,À Vendre,879,2,4
+Joli appartement  pour location vacances🤗 🔝.,,Monastir,,À Louer,100,1,-1
+Terrain a Vendre à Bizerte,155000,Bizerte,,,,,
+"A louer 
+appartement S+2 
+Rte Tunis km2 Immeuble EL FOLL 
+Pres de Duo coffe
+Ascenseur et Gaz de ville disponible
+Tel 99487026",11,Sfax,S+2,À Louer,120,1,2
+Charmant appartement S+2 en location à Borj Baccouche,899,Ariana,S+2,À Louer,00,1,3
+Bureau S+3 en location a Bizerte centre ville,1200,Bizerte,S+3,À Louer,90,1,3
+Etage de villa en vente à corniche Bizerte,115000,Bizerte,,À Vendre,60,1,1
+Jolie appartement avec piscine,,Monastir,,À Louer,90,1,2
+Villa en vente  à corniche  Bizerte,1990000,Bizerte,,À Vendre,826,3,5
+A VENDRE DUPLEX S+3  NEUF À CHOTRANA 1,830000,Ariana,S+3,À Vendre,188,2,3
+Appartement s+2 a vendre à Bizerte centre ville,220000,Bizerte,,À Vendre,140,2,1
+sidi bou said a louer villa vide,6000,Tunis,,À Louer,500,1,3
+Un S plus Trois meublé  Haut Standing,1700,Monastir,,À Louer,180,1,3
+A Louer S+1meublé au rez-de-chaussée à la Marsa,1900,Tunis,S+1,À Louer,45,1,1
+A louer un S+2 meublé avec vue sur mer - La zone touristique Sousse,1350,Sousse,S+2,À Louer,85,1,2
+Des appartements direct promoteur - Khezema Sousse,195000,Sousse,,À Vendre,56,1,1
+Villa S+7 haut standing avec jardin et piscine à Ennasr 2 coté Renée Descartes,4500,Ariana,S+7,À Louer,700,4,7
+A vendre maison avec deux étages,549999,Sousse,,À Vendre,360,4,7
+Villa à Vendre à manzel jemil Bizerte,349999,Bizerte,,À Vendre,300,2,3
+a vendre un appartement s1 direct promoteur a l'aouina cité wahat,185000,Tunis,,À Vendre,54,1,1
+immeuble de 6 appartement en vente à Hergla,1100000,Sousse,,À Vendre,767,5,12
+Des bureaux à louer - Panorama Sousse,900,Sousse,,À Louer,80,1,1
+à Louer un local à La Soukra à Chotrana 3,20,Ariana,,À Louer,500,0,0
+A Vendre S+1 avec Jardin aux JDC,410000,Tunis,S+1,À Vendre,70,1,1
+Appartement de type S2,398,Sousse,,À Louer,90,-1,2
+Terrain à Vendre à sidi salem Bizerte,900000,Bizerte,,,,,
+appartment,120,Ariana,,À Louer,57,1,1
+Un bureau H+3 à louer - Cité La Caserne Sousse,1150,Sousse,,À Louer,80,2,3
+A louer un duplex S+2 - Kantaoui Sousse,1500,Sousse,S+2,À Louer,140,1,2
+Jolie S+1 à louer/ Cité Erriadh Borj Cedria,480,Ben Arous,S+1,,,,
+un local commercial de 123 m² situé sur une route principale,780000,Tunis,,À Vendre,123,1,1
+"en location un #appartement de type s+2 situé au 1er étage d’une petite #résidence récente, a sahloul 1",1000,Sousse,,À Louer,130,1,2
+A louer un appartement S+1 meublé jamais habité - Sahloul 4 Sousse,1200,Sousse,S+1,À Louer,55,1,1
+Appartement en s+2 jamais habité,3000,Tunis,,À Louer,120,2,2
+Étage de villa en s+3,5500,Tunis,,À Louer,260,4,3
+Un bel appartement richement meublé au lac i,2200,Tunis,,À Louer,120,2,2
+S+2 NEUF 152 M² CHOTRANA LA SOUKRA,425002,Ariana,S+2,À Vendre,153,2,2
+A VENDRE VILLA JUMELÉE À SOUKRA,970000,Ariana,,À Vendre,227,2,4
+A VENDRE S+1 AVEC TERRASSE 30.80 À LA SOUKRA,290000,Ariana,S+1,À Vendre,87,1,1
+A LOUER VILLA AVEC PISCINE À SOUKRA,4500,Ariana,,À Louer,350,2,4
+A louer un appartement S+2 - Sahloul 4 Sousse,1100,Sousse,S+2,À Louer,91,2,2
+sidi daoued la marsa côté kiosque shelle a louer appartement vide indépendant,800,Tunis,,À Louer,90,1,1
+Open espace - 90m²-La soukra-IFCS65,1782,Ariana,,À Louer,90,0,1
+Appartement meublé en s+3,3500,Tunis,,À Louer,180,2,3
+Local commercial double hauteur- 40m²- Lac 1- IFCL1204,1650,Tunis,,À Louer,40,0,1
+"El menzah 8, à louer appt S+2",,Ariana,S+2,À Louer,0,1,2
+Un beau S+1 avec vue sur lac,1700,Tunis,S+1,À Louer,70,1,1
+Un bel appartement richement meublé,1598,Tunis,,À Louer,65,1,1
+Local à louer 159m² Ceinture Bourguiba km 3 entre sidi mansour et saltnia,1500,Sfax,,À Louer,159,1,1
+🧑🏻‍💻𝐔𝐧 𝐛𝐮𝐫𝐞𝐚𝐮 𝐀+𝟏 𝐞𝐧 𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧 à 📍𝐒𝐨𝐮𝐬𝐬𝐞 𝐯𝐢𝐥𝐥𝐞,900,Sousse,,À Louer,60,1,1
+Un beau S+1 meublé au lac I pour expatrié,1500,Tunis,S+1,À Louer,55,1,1
+vente 128 oliviers avec récolte 5.5 hectares à Kairouan Dhraa tammar,,Kairouan,,,,,
+maison à beb il khadra,320000,Tunis,,À Vendre,200,1,5
+Villa R+1 à vendre,,Ben Arous,,À Vendre,288,3,6
+Appartement en s+2 Meublé,2200,Tunis,,À Louer,160,2,2
+Appartement en s+2 Meublé,5000,Tunis,,À Louer,160,2,2
+"Location Annuelle : Duplex S+5 vide à cité el wafa, Nabeul.",1800,Nabeul,S+5,À Louer,250,0,4
+A vendre des appartements haut standing a la nouvelle soukra direct promoteur,,Tunis,,À Vendre,150,2,3
+S+1 meublé avec parking Jardins de Carthage,940,Tunis,S+1,À Louer,50,1,2
+Un joli terrain 💐 138 M Carrés à vendre à cité Hithab tel 99811625/54811627,95000,Ben Arous,,,,,
+🧑🏻‍💻𝐔𝐧 𝐛𝐮𝐫𝐞𝐚𝐮 𝐀+𝟏 𝐞𝐧 𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧 à 📍𝐒𝐨𝐮𝐬𝐬𝐞 𝐯𝐢𝐥𝐥𝐞,800,Sousse,,À Louer,50,1,1
+Terrain habitation  industriel  en vente,445910,Sousse,,,,,
+a vendre un appartement s4 a l'aouina cité wahat,340000,Tunis,,À Vendre,172,2,4
+A louer S+1 A CITE EL WAHAT,960,Tunis,S+1,À Louer,,1,1
+مقاول بناء بمنوبة 22541884,300,La Manouba,,,,,
+gammarth harrouch : à vendre duplex indépendant dans une résidence,450000,Tunis,,À Vendre,124,3,3
+a vendre des appartement s+2 s+3  direct promoteur,,Tunis,,À Vendre,139,2,3
+opportunité a vendre s+2 à jardin de laouina,225000,Tunis,,À Louer,100,1,2
+Terrain de 382 m² à Borj Cedria,210000,Ben Arous,,,,,
+Terrain de 326 m² à Borj Cedria,196000,Ben Arous,,,,,
+Terrain de 431 m² à Borj Cedria,194000,Ben Arous,,,,,
+Terrain habitation ind. en vente route salakta,66360,Mahdia,,,,,
+A louer magnifique appartement S1 Haut Standing à menzah 9 c,1200,Tunis,,À Louer,50,1,1
+Achetez un Terrain de Rêve à Hammam Sousse,800,Sousse,,,,,
+EMPLACEMENT STRATÉGIQUE RIADH EL ANDALOUS,1937,Ariana,,À Louer,100,1,1
+LOT 400M2 A BOUJERDGA,160000,Ben Arous,,,,,
+villa indépendante,2800,Tunis,,À Louer,120,2,2
+𝐔𝐧 𝐬𝐩𝐚𝐜𝐢𝐞𝐮𝐱 𝐁𝐮𝐫𝐞𝐚𝐮 𝐀+𝟐 𝐚𝐯𝐞𝐜 𝐮𝐧𝐞 𝐯𝐮𝐞 𝐬𝐮𝐫 𝐦𝐞𝐫 𝐞𝐧 𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧 à 𝐒𝐨𝐮𝐬𝐬𝐞,1500,Sousse,,À Louer,100,1,2
+s4 la soukra,1500,Ariana,,À Louer,150,2,4
+Open espace - 48m²-La soukra-IFCS64,1215,Ariana,,À Louer,48,0,1
+Ain Zaghouan,850,Tunis,,À Louer,72,1,2
+soukra,1000,Ariana,,À Louer,90,1,2
+cite lwahat,1250,Tunis,,À Louer,90,1,2
+APPART S+2 A BASSATINE,600,Ben Arous,S+2,À Louer,85,1,3
+Des appartements direct promoteur à vendre - Kantaoui Sousse,255000,Sousse,,À Vendre,61.5,1,1
+A louer des appartements jamais habités de types S+2 et S+3- Zaouiet Sousse,580,Sousse,S+2,À Louer,100,1,2
+sidi daoud,1000,Tunis,,À Louer,85,1,1
+Appartement s+1 meublé,,Ben Arous,,À Louer,60,1,1
+a louer s1 a cite wahat avec place parking ss,930,Tunis,,À Louer,70,1,1
+APPART S+2 A BOUMHAL,500,Ben Arous,S+2,À Louer,100,1,3
+A vendre un magnifique appartement s2 a ain Zaghouan avec abri voiture,330000,Tunis,,À Vendre,117,2,2
+APPART S1 MEUBLE A BOUMHAL,120,Ben Arous,,À Louer,55,1,2
+A louer un studio sans meubles - Kantaoui Sousse,500,Sousse,,À Louer,45,1,1
+A vendre un appartement s2 aux jardins de l’aouina,249000,Tunis,,À Vendre,107,1,2
+dépôt de 120m² a boumhel,900,Ben Arous,,À Louer,120,1,1
+Terrain habitation ind. en vente route salakta,68040,Mahdia,,,,,
+local commercial 180m² a boumhal bassatine,4500,Ben Arous,,À Louer,180,,
+Appartement s2 Meublé,2000,Ben Arous,,À Louer,130,1,2
+APPARTEMENT S+2 A MADINA JADIDA,750,Ben Arous,S+2,À Louer,100,1,2
+APPART S+2 A BASSATINE,450,Ben Arous,S+2,À Louer,76,1,3
+duplex s+3 a boumhel,1600,Ben Arous,,À Louer,200,2,3
+A louer un cabinet de type À+1 à farhat hached Sousse,1000,Sousse,,À Louer,79,1,1
+appartement S+2 en location,550,Sousse,S+2,À Louer,110,2,2
+LOCAL 30M2 A BOUMHAL,1000,Ben Arous,,À Louer,30,1,1
+a vendre un magnifique appartement s3 a l'aouina cité wahat,360000,Tunis,,À Vendre,140,2,3
+APPARTEMENT S+1 MEUBLE EZZAHRA,900,Ben Arous,S+1,À Louer,65,1,1
+Un beau terrain à vendre à cité Riadh borj cédria tel 99811625/54811627,260000,Ben Arous,,,,,
+studio meublé par nuitée à la marsa,100,Tunis,,À Louer,80,1,1
+a vendre un appartement au rdc a ain zaghouan avec place parking sous-sol,250000,Tunis,,À Vendre,107,1,2
+Terrain habitation ind. en vente Route salkata,68880,Mahdia,,,,,
+S+2 de 105m² à Hammamet,140000,Nabeul,S+2,À Vendre,105,1,2
+Usine à vendre de 1500 M Carré dans un terrain de 7000 M Carré  Tel 99811625 / 54811627,1500000,Ben Arous,,À Vendre,7000,8,2
+Résidence de R+3 avec un grand dépôt et grand local commercial sur la rue principale de lemguira tel 99811625/54811627,950000,Ben Arous,,À Vendre,600,22,10+
+Appartement à vendre à mourouj 3 près de foyer tel 54811627/99811625,145000,Ben Arous,,À Vendre,115,1,4
+APPART S+1 HTS A BOUMHAL,750,Ben Arous,S+1,À Louer,65,1,2
+une très jolie ferme d'orange de 3 hectares à menzel bouzalfa ( sakwi )tel 99811625/54811627,680000,Nabeul,,,,,
+Bell villa style américain a vendre à mourouj 4 tel 54811627/99811625,540000,Ben Arous,,À Vendre,300,3,7
+A louer un appartement meublé de type S+2 - Hammam Sousse,700,Sousse,S+2,À Louer,85,1,2
+Une maison de 2 étages indépendante à vendre à fouchana tel 99811625/54811627,155000,Ben Arous,,À Vendre,90,2,7
+Un très beau duplex à médina el Jadida tel 99811625/54811627,550000,Ben Arous,,À Vendre,201,2,5
+Appartement S+3 et S+2 Borj Cedria Coté Carrefour,680,Ben Arous,S+3,À Louer,100,1,3
+Une maison 🏠🏡 de deux étages à vendre à IBN SINA Tunis tel 99811625/54811627,210000,Tunis,,À Vendre,100,2,8
+une très jolie villa haut standing à vendre à cité riadh borj cedria tel 99811625/54811627,650000,Ben Arous,,À Vendre,400,3,7
+À vendre un fond de commerce sur la rue principale de 9 Avril en face la faculté,26000,Tunis,,À Vendre,12,0,1
+Un café à vendre fond et mur à Bâb souika tel 99811625/54811627,75000,Tunis,,À Vendre,75,2,3
+FOND CAFETERIA A BOUMHAL,60,Ben Arous,,À Vendre,100,1,1
+villa 🏠 à vendre S+2 à cité Hithab tel 99811625/54811627,230000,Ben Arous,S+2,À Vendre,187,1,3
+un bureau à Vendre à Ibn sina tel 54811627/99811625,85000,Tunis,,À Vendre,47,1,2
+appartement s+3 a boumhel bassatine,1000,Ben Arous,,À Louer,110,1,3
+Appartement S1 luxueux meublé pour vos vacances courte durée,80,Tunis,,À Louer,61,1,1
+Un duplex commercial à vendre à mourouj 3 tel 99811625/54811627,350000,Ben Arous,,À Vendre,150,2,4
+une maison 🏡🏠 de 2 étages indépendantes à vendre à cité Hithab 290 milles dinars,240000,Ben Arous,,À Vendre,135,2,8
+Ancienne villa à vendre à monome wardia 1 tel 99811625/54811627,255000,Tunis,,À Vendre,480,2,4
+Un beau terrain de 450 M Carré à cité Riadh Borj cédria cédrie,160000,Ben Arous,,,,,
+immeuble 970 m2 tél 22214299,,Monastir,,À Vendre,970,6,6
+une villa à vendre à cité Hithab tel 99811625/54811627,235000,Ben Arous,,À Vendre,187,1,5
+à louer appartement studio meublé location par jour / nuitée,70,Tunis,,À Louer,111,1,4
+Grande villa à vendre prés de technopole Ariana route jaafir tel 99811625/54811627,450000,Ariana,,À Vendre,530,3,6
+APPART S+3 A BASSATINE,850,Ben Arous,S+3,À Louer,125,2,4
+Appartement  a vendre,123,Ben Arous,,,68,1,2
+appartement meublé par nuitée à el wahat l'aouina,100,Tunis,,À Louer,85,1,1
+À louer_Bureau_H+2_80 m2_Monplaisir,1450,Tunis,,À Louer,80,1,2
+Appartement S+2 vide ou meublé en location  à Menzah7,899,Ariana,S+2,À Vendre,85,1,2
+Bureau_H+3_120 m2_Monplaisir,1650,Tunis,,À Louer,120,1,3
+rez de chaussée d'une villa à vendre à mourouj 1 tel 99811625/54811627,280000,Ben Arous,,À Vendre,300,1,5
+Un appartement à vendre S+2 entre mourouj 5 et 6 tel 99811625/54811627,110000,Ben Arous,S+2,À Vendre,80,1,3
+Appartement S1 luxueux meublé pour vos vacances courte durée,80,Tunis,,À Louer,61,1,1
+Appartement S+3 aux jardins de carthage,825000,Tunis,S+3,À Vendre,162,2,3
+Une villa de 2 étages indépendantes à vendre à mourouj 6 ( FORSA ) tel 99811625/54811627,400000,Ben Arous,,À Vendre,245,2,8
+Appartement S+2 à louer à Ariana Supérieure.,800,Ariana,S+2,À Louer,00,1,3
+Plateau bureautique au lac 2,10125,Tunis,,À Louer,405,2,
+a louer s+2 a laouina,1050,Tunis,,À Louer,78,1,2
+Appartement S+1 HST aux jardins de carthage,1400,Tunis,S+1,À Louer,80,1,1
+A louer un étage de villa de type s+2 situé au 2eme etage d une villa à sahloul 4,850,Sousse,,À Louer,89,1,2
+Studio en location à Menzah9A à coté de centre Ayda,,Tunis,,À Louer,00,1,1
+Appartement meublé S+3 au lac 2,3200,Tunis,S+3,À Louer,120,1,2
+Appartement S+2 au lac 1,1500,Tunis,S+2,À Louer,100,1,2
+a vendre une villa S+3 avec piscine a la soukra,960000,Ariana,S+3,À Vendre,300,3,3
+LOCAL 160M2 A BASSATINE,1300,Ben Arous,,À Vendre,160,1,1
+Grand Appartement s+2 à Rimmel bizerte,651,Bizerte,,À Louer,100,1,2
+للبيع محل طريق العين كلم6,123,Sfax,,,,,
+rdc à louer à cité il Saha Bizerte,800,Bizerte,,À Louer,120,1,3
+🏠 ENNASR 2 ; à LOUER JOLI APPT S+2 🏠,,Ariana,S+2,À Louer,120,2,2
+A vendre des appartements direct promoteur haut standing a la nouvelle soukra,,Tunis,,À Vendre,100,2,2
+MAISON S3 MEUBLE A BASSATINE,150,Ben Arous,,À Louer,150,2,4
+LOCAL 120M2 A BASSATINE,850,Ben Arous,,À Louer,120,1,1
+A vendre S2 neuf direct promoteur à Ain Zaghouan,450000,Tunis,,À Vendre,132,2,2
+pour villa et maison 21118839,120000,Tunis,,À Vendre,120,1,5
+Terrain de 323 m² à Borj Cedria,169000,Ben Arous,,,,,
+Villa de 400 m² sur un terrain de 597 m²,790000,Ben Arous,,À Vendre,597,2,3
+Duplex  (S+2) à Sahloul Directe Promoteur,277300,Sousse,S+2,À Vendre,108,2,2
+"Maison à Bouhsina el Ghazali , dans un Quartier Chic",300000,Sousse,,À Vendre,285,0,0
+APPART S+2 A BASSATINE,700,Ben Arous,S+2,À Louer,76,1,3
+(S+2)  Vue de Mer  au  Cœur de la  Zone  Touristique,520000,Sousse,S+2,À Vendre,145,1,2
+Open espace - 290m²-La soukra-IFCS63,4455,Ariana,,À Louer,290,0,2
+👩🏼‍💻𝐔𝐍 𝐁𝐔𝐑𝐄𝐀𝐔 𝐀+2 pour la 𝐋𝐎𝐂𝐀𝐓𝐈𝐎𝐍 AU TROCADERO SOUSSE,1100,Sousse,,À Louer,96,1,2
+APPART S+2 A BASSATINE,600,Ben Arous,S+2,À Louer,85,1,3
+Villa de  Plain  Pied à  Bouhsina  Cité  Olympique,580000,Sousse,,À Vendre,494,2,3
+"(S+2) Directe Promoteur à Khezema,  dans une Petite Résidence",438000,Sousse,S+2,À Vendre,115,1,2
+A vendre local commercial lac 1 sur la route principale,430000,Tunis,,À Vendre,70,2,1
+(S+3) à  Cité Riadh  5,125000,Sousse,S+3,À Vendre,107,2,3
+Villa de Charme à Sahloul 4 en Cours de  Finition,1350000,Sousse,,À Vendre,400,5,7
+Un appartement s+2 à louer située à sahloul 3,1000,Sousse,,À Louer,110,1,-1
+Villa de 418 m² à  Borj Cedria,790000,Ben Arous,,À Vendre,418,4,7
+Maison à   Cité  Riadh érigée sur deux Niveaux,230000,Sousse,,À Vendre,112,2,6
+Maison  de 622 m² à Borj Cedria,430000,Ben Arous,,À Vendre,622,1,3
+A louer local commercial situé à Alain Savary,4000,Tunis,,À Louer,250,2,4
+Villa de 395 m² à Borj Cedria,495000,Ben Arous,,À Vendre,395,3,3
+Maison à la Cité AFH de Borj Cedria,480000,Ben Arous,,À Vendre,185,4,4
+Maison neuve de 206 m² à Borj Cedria,360000,Ben Arous,,À Vendre,206,1,3
+Duplex de 180 m² à Borj Cedria,319000,Ben Arous,,À Vendre,180,3,3
+Villa en S5 de 690m  Manar 1,1200000,Tunis,,À Vendre,690,3,5
+VILLA EN S4 AU MANAR 1,5000,Tunis,,À Louer,570,4,4
+terrain de 600 m carre au manar 1,890000,Tunis,,,,,
+à Vendre appartement s3 à cité el Wahat,440000,Tunis,,À Vendre,185,2,3
+Un appartement spacieux,295000,Tunis,,À Vendre,145,0,3
+"Ennasser II, à louer S+1",850,Ariana,S+1,À Louer,0,1,1
+Une luxieuse villa,1490000,Ariana,,À Vendre,1143,0,5
+Un appartement s1 à La Marsa ( cité bhar lazreg ) .,1050,Tunis,,À Louer,70,0,1
+A VENDRE SPLENDIDE VILLA AU MANAR 1,1600000,Tunis,,À Vendre,500,3,4
+appartement s3 de 140m au manar 1,1200,Tunis,,À Louer,140,2,3
+appartement s3 de 110m au manar 1,900,Tunis,,À Louer,110,1,3
+Villa en s4 de 600m² au manar 1,3400,Tunis,,À Louer,700,3,4
+à louer un appartement s0 à la Marsa,1000,Tunis,,À Vendre,30,0,0
+Ennasr à louer s+1 très haut standing,1100,Ariana,,À Louer,60,0,1
+à vendre un appartement s1 à Bhar lazregu,226000,Tunis,,À Vendre,70,0,1
+à vendre villa jumelée à chotrana 3,980000,Ariana,,À Vendre,300,0,4
+Une villa S+3 à la Soukra,990000,Ariana,S+3,À Vendre,227,4,5
+أرض صالحة للبناء بلواتة,112233,Bizerte,,,,,
+Appart S3 Kmar à Vendre à Cité EL Ghazela (Direct Promoteur),411000,Ariana,,À Vendre,147,3,3
+à Vendre un  appartement s3 à L'aouina Hay el Wahat,390000,Tunis,,À Vendre,150,2,3
+Vente villa de maitre à Chotrana 3,4,Ariana,,À Vendre,1900,5,8
+à Vendre un appartement s3 à cité Ennaser 1,295000,Ariana,,À Vendre,118,2,3
+TRÈS BEAU REZ DE CHAUSSÈE DE VILLA S+3 A🔥HAMMEM SOUSSE,175000,Sousse,S+3,À Vendre,130,1,3
+UNE FERME DE 4200 m² A KALAA💎CONTENANT UNE STUDIO EN BOIS,120000,Sousse,,,,,
+Splendide Appartement S+1 à vendre,,Sousse,S+1,À Vendre,67,0,1
+Maison pieds dans l’eau à plage Ain Grinz Kelibia,1350000,Nabeul,,À Vendre,280,3,6
+à louer un étage de villa s+3 à ezzahra,,Ben Arous,,À Louer,120,1,3
+TRÈS BEAU VILLA R+1 AVEC PISCINE A❤ HERGLA,1050000,Sousse,,À Vendre,570,4,8
+Bureau _H+3 _102m_Centre Urbain Nord,2200,Tunis,,À Louer,102,2,3
+A louer appartement S+0 neuf jamais habité,900,Tunis,S+0,À Louer,40,1,1
+Bureau H+3 au CENTRE URBAIN NORD,2100,Tunis,,À Louer,110,2,3
+Bureau_H+4_136m²_Borj Baccouche,2250,Tunis,,À Louer,136,1,4
+À LOUER Plateau spacieux 270 m2 au CUN,5000,Tunis,,À Louer,270,2,7
+terrain à vendre à la soukra,514000,Ariana,,,,,
+À louer Bureau h+3 au Centre Urbain Nord,1900,Tunis,,À Louer,107,1,3
+🏢Luxueux appartement s+3 Neuf en location à Sahloul 4,1500,Sousse,,À Louer,152,2,3
+TRÈS CHIC APP S+2 NON MEUBLÈ A🔥SAHLOUL YASER ARAFET,1000,Sousse,S+2,À Louer,90,1,2
+بيع فرش,200,Bizerte,,,,,
+A louer un s+2 à l'aouina,1200,Tunis,,À Louer,100,2,2
+S+3 RDC,2300,Ariana,S+3,À Louer,143,2,6
+UNE SUPERBE VILLA AVEC PISCINE 💎A CHATT MARIEM,3700000,Sousse,,À Vendre,8900,4,4
+TRÈS BELLE APPARTEMENT S+2 EN VENTE A🔥KHZAMA,200000,Sousse,S+2,À Vendre,90,1,2
+A vendre villa de 300 m² sur un terrain de 368 m²,1350000,Tunis,,À Vendre,368,4,6
+A louer S+3 meublé à Ennasr 2,2500,Ariana,S+3,À Louer,180,3,3
+TRÈS BEAU TERRAIN A CHATT MARIEM COTE MER,1150,Sousse,,,,,
+s+1 jamais habite avec place parking ss,1100,Tunis,,À Louer,70,1,1
+A vendre un appartement s3 a l’aouina citè wahat,299000,Tunis,,À Vendre,140,2,3
+Av duplex s4avec piscine à Hammamet sud❌99202001❌,250000,Nabeul,,À Vendre,300,2,3
+TRÈS CHIC BUREAU A+3 PRÈS D'HOPITAL FARHAT HACHED,360000,Sousse,,À Vendre,110,1,3
+Terrain de 611 m² à la Soukra,850000,Ariana,,,,,
+Villa individuelle en vente,570000,Ariana,,À Vendre,,,
+A louer s+1 haut standing avec terrasse a ain zaghouan prés clinique soukra,1100,Tunis,,À Louer,86,1,1
+a louer un appartement s1 haut standing a la nouvelle soukra avec place parking sous-sol,1050,Tunis,,À Vendre,74,1,1
+A vendre des appartements s+1 s+2 direct promoteur a la nouvelle soukra En cours de construction,171000,Tunis,,À Vendre,48,1,1
+A louer un appartement s1 haut standing a ain zaghouan avec place de parking au sous-sol,1100,Tunis,,À Louer,80,1,1
+"A vendre s+1 direct promoteur 
+enregistrement 1%",169000,Tunis,,À Vendre,50,1,1
+Villa Anas,1050000,Nabeul,,À Louer,245,4,4
+للبيع  بتونس العاصمة  مستودع تجاري 27م مربع مع غرفة 10م مربع  و  ركن طبخ  بيت راحة دوش     . 58950217,60000,Tunis,,À Vendre,37,1,2
+A louer   S+1 meublé haut par nuitée à l'aouina cité wahat,89,Tunis,S+1,À Louer,90,1,1
+à louer studio à côté ettahrir zone calme,350,Tunis,,À Louer,70,1,2
+Villa r+1 à Hammam chat,830000,Ben Arous,,À Vendre,562,3,8
+Bureau à vendre au bergers du lac/97667048,400000,Tunis,,À Vendre,85,1,3
+Terrain habitation ind. en vente Route salakta,68320,Mahdia,,,,,
+🏠Duplex S+3 avec entrée indépendante à La Marsa,3650,Tunis,S+3,À Louer,300,3,3
+Appt s+2 à l'année à route hôtel lido,550,Nabeul,,À Louer,90,1,2
+Appartement S+2 jamais habité à La Soukra,1300,Ariana,S+2,À Louer,90,1,2
+À louer un bureau À+3 à sahloul 1,1400,Sousse,,À Louer,92,1,3
+🏠Appartement S+0 à Ain Zaghouan,950,Tunis,S+0,À Louer,45,1,1
+Appartement S+2 en vente,210000,La Manouba,S+2,À Vendre,90,1,2
+🏠Duplex S+3 avec entrée indépendante à La Marsa,4000,Tunis,S+3,À Louer,300,4,3
+A louer Hall 2 pièces vide à Louis Braille,1500,Tunis,,À Louer,75,1,2
+🏠Appartement S+2 à La Soukra,330000,Ariana,S+2,À Vendre,111,1,2
+A vendre  S+2 spacieux avec PPKSS et cellier à l'aouina cité wahat,255000,Tunis,S+2,À Vendre,100,1,2
+🏠Appartement S+3 avec chambre de service à Sidi Daoud La Marsa,2200,Tunis,S+3,À Louer,180,3,3
+A Louer villa s+5  usage bureautique à menzah 8 sur la route principale,2300,Ariana,,À Louer,450,3,5
+🏠Appartement S+1 à La Soukra,950,Ariana,S+1,À Louer,60,1,1
+A vendre S3 direct promoteur à Ain  Zaghouan,478000,Tunis,,À Vendre,156,2,3
+🏠Villa S+5 avec chambre de service à La Soukra,2800,Ariana,S+5,À Louer,300,4,5
+🏠Appartement S+0 Meublé à La Soukra,700,Ariana,S+0,À Louer,45,1,1
+Appartement S+2 jamais habité à Cité Les Palmeraies,1550,Tunis,S+2,À Louer,120,2,2
+À louer : Appartement S+2 meublé près de Carrefour Marsa,1500,Tunis,S+2,À Louer,80,1,2
+🏠Appartement S+3 avec jardin à La Soukra,1800,Ariana,S+3,À Louer,150,3,3
+Appartement S+2 Haut Standing au Bardo,1024,Tunis,S+2,À Louer,1,1,2
+🏠Appartement S+2 à Ain Zaghouan,335000,Tunis,S+2,À Vendre,120,1,2
+🏠Appartement S+2 à La Soukra,1300,Ariana,S+2,À Louer,116,1,2
+A vendre villa à démolir titré à Mutuelle ville,1650000,Tunis,,À Vendre,365,3,8
+À vendre : Bureau 3 pièces aux Berges du Lac 2,430000,Tunis,,À Vendre,65,1,2
+Appartement S+4 à La Soukra,1500,Ariana,S+4,À Louer,150,2,4
+🏠Appartement S+2 à La Soukra,1650,Ariana,S+2,À Louer,103,1,2
+🏠Appartement S+4 à Ain Zaghouan,1500,Tunis,S+4,À Louer,150,2,4
+CoverZone Housse Bâche Bateau Jetski pneumatique Seadoo Yacht Yamaha Semi rigide,300,Tunis,,À Vendre,300,3,3
+Appartement S+1 Meublé au Bardo centre,900,Tunis,S+1,À Louer,1,1,1
+Vente Terrain Manar 1,704,Tunis,,,,,
+Appartement S+3 Rdc au Bardo2,750,Tunis,S+3,À Louer,1,2,3
+Appart S2  EL Molk à Vendre à Cité EL Ghazela (Direct Promoteur),404000,Ariana,,À Vendre,143,2,2
+Local Commercial Menzah 5,2200,Ariana,,À Louer,50,0,1
+A louer   S+1 jamais habité haut standing   à l'aouina cité wahat,900,Tunis,S+1,À Louer,90,1,1
+𝐀𝐏𝐏𝐀𝐑𝐓𝐄𝐌𝐄𝐍𝐓 𝐒+𝟑 𝐄𝐍 LOCATION 𝐀 𝐒𝐀𝐇𝐋𝐎𝐔𝐋 𝟒,1300,Sousse,,À Louer,180,2,3
+Immeuble Centre Ville R+3 avec Titre Foncier Individuel,1500000,Tunis,,À Vendre,385,8,22
+Locaux Commerciaux Menzah 5,2100,Ariana,,À Louer,60,1,1
+maison,550000,Ariana,,À Vendre,323,2,8
+A louer un appartement S+2 Neuf a Mornaguia📌,500,La Manouba,S+2,À Louer,100,1,2
+Duplex de 140m² à Boumhal el Bassatine,395000,Ben Arous,,À Vendre,140,2,3
+Local Commercial Plein Centre Ghazala,1500,Ariana,,À Louer,36,1,1
+Villa à Hammamlif de 746 m²,600000,Ben Arous,,À Vendre,746,2,7
+A vendre terrains jumelés à l'Aouina,2400,Tunis,,,,,
+Un Appartement S+3 RDC à louer,850,Ben Arous,S+3,À Louer,,1,3
+Local Commercial Grande Artère Menzah 8,1800,Ariana,,À Louer,40,1,1
+A louer  S+1 meublé haut standing  à l'aouina cité wahat,1050,Tunis,S+1,À Louer,90,1,1
+A vendre des appartements S+2 à Ain Zaghouan Nord,477000,Tunis,S+2,À Vendre,110,2,2
+Appartement luxueux à Ain Zaghouan,420000,Tunis,,À Vendre,127,2,2
+Un Appartement S+3 au RDC à Ezzahra,290000,Ben Arous,S+3,À Vendre,150,1,3
+DUPLEX À BOUMHAL EL-BASSATINE,550000,Ben Arous,,À Vendre,,3,3
+Av 2maisons à birbourgba99958728,170000,Nabeul,,À Vendre,120,2,3
+A Vendre Villa de 180 m²,380000,Ben Arous,,À Vendre,180,1,3
+Appart S3 Ania à Vendre à Raoued,500000,Ariana,,À Vendre,150,3,3
+Local Commercial Menzah 9 C,1200,Tunis,,À Louer,35,1,1
+A vendre S3 direct promoteur à Ain Zaghouan,734000,Tunis,,À Vendre,163,2,3
+VILLA DE 400 M² À MOUROUJ 3,550000,Ben Arous,,À Vendre,400,1,2
+terrain proche hotel kelibia beach a vendre,110000,Nabeul,,,,,
+Open Space Artère Principale Menzah 7,5000,Ariana,,À Louer,350,2,3
+Un terrain de 367m² à morneg cité AFH,220000,Ben Arous,,,,,
+en #location annuelle un luxueux appartement de type S+2 à la #Corniche #sousse🇹🇳,,Sousse,S+2,À Louer,100,2,2
+🌟 🌟ENNASR 2 ; à LOUER JOLI APPT S+3🌟 🌟,1550,Ariana,S+3,À Louer,150,2,3
+Terrain habitation ind. en vente,80300,Mahdia,,,,,
+A vendre un lot de 436m² à l'aouina,2200,Tunis,,,,,
+Bureau H+2 Manar 1,900,Tunis,,À Louer,80,1,2
+une charmante villa meublée en vente,800000,Mahdia,,À Vendre,736,2,4
+Villa individuelle en vente,420000,Mahdia,,À Vendre,1150,2,4
+Appartement neuf revêtements de qualité,400000,Tunis,,À Vendre,120,1,2
+A louer à proximité du port punique S+2 entièrement rénové,1600,Tunis,S+2,À Louer,80,1,2
+Location immeuble bureautique au Lac 1,40000,Tunis,,À Louer,1202,6,2
+Immeuble EL Mahboub à Vendre à La Marsa,750000,Tunis,,À Vendre,325,2,6
+Bureau H+2 à La Soukra,1350,Ariana,,À Louer,127,1,2
+A louer  S+3 spacieux haut standing à l'aouina cité wahat,1350,Tunis,S+3,À Louer,150,3,3
+Beau Bureau Menzah 5,575,Ariana,,À Louer,20,1,0
+Alouer s+2 meuble à nouvelle medina 3,,Ben Arous,,À Louer,120,1,2
+appartement lac 2 a cote de tunsia mall,140,Tunis,,À Louer,65,1,1
+S+1 en location,300,Mahdia,S+1,À Louer,70,1,1
+A louer s+2 à nouvelle medina 3 côté carrefour market,900,Ben Arous,,À Louer,,1,2
+DUPLEX -MONACO PRESTIGE (365m²) COUP DE COEUR A ZAGHOUAN,1058900,Zaghouan,,À Vendre,365,3,5
+Terrain agricole en vente,260000,Mahdia,,,,,
+terrain kairouan mansoura,380,Kairouan,,,,,
+Bureau privé,600,Tunis,,À Louer,16,2,1
+🌟 🌟CIté FAOUZ  ; à LOUER JOLI APPT S+1,,Ariana,S+1,À Louer,70,1,1
+UN APPARTEMENT S+3  HAUT STANDING,290000,Ben Arous,S+3,À Vendre,130,2,3
+Villa jumelée en vente + 4 appartement inachevé,780000,Mahdia,,À Vendre,730,2,3
+Local commercial en location,850,Mahdia,,À Louer,250,2,1
+A louer plateau 286m² en open space au Centre Urbain Nord,9600,Tunis,,À Louer,286,4,0
+أرض للبيع,,Sfax,,,,,
+A louer villa rénovée S5 bureau ou habitation Manar 2,4800,Tunis,,À Louer,400,4,5
+A louer hall+5 à Mutuelle ville,2200,Tunis,,À Louer,125,1,4
+A louer  S+2 spacieux   à l'aouina cité wahat,850,Tunis,S+2,À Louer,110,1,2
+Terrain habitation ind. en vente,116603,Mahdia,,,,,
+🏢Un magnifique Appartement s+2 richement meublé en location à la cité Caserne Sousse,,Sousse,,À Louer,142,2,2
+Terrain à vendre à megrine,400,Ben Arous,,,,,
+terrain a kelibia Route de Mansoura,140000,Nabeul,,,,,
+A louer appartements meublés par nuitée ou mensuel,80,Tunis,,À Louer,100.0,1.0,2.0
+A louer avec jardin et piscine à El Menzah 1,8000,Tunis,,,,,
+RÉSIDENCE À LA NOUVELLE SOUKRA,210000,Tunis,,À Vendre,57,1,0
+Terrain habitation ind. en vente  à Salakta,188000,Mahdia,,,,,
+Terrain habitation ind. en vente,117800,Mahdia,,,,,
+immobilier neuf s'ouvre sur deux rues et est situé à proximité de la plage à salakta,900000,Mahdia,,À Vendre,690,10,11
+Hall+2 en location,550,Mahdia,,À Louer,110,1,2
+En exclusivité  🔥🔝 coquette villa inachevée à vendre à Sahline-Monastir:,,Monastir,,À Vendre,,,
+A Louer💡,,Monastir,,À Louer,110,1,2
+A LOUER – S+1 – CITE EL WAHAT – TEL 58713586 – FB.7067,800,Tunis,S+1,À Louer,69,1,1
+A vendre un terrain 150m² titre individuelle autorisation de bâtir R+2  de Type Individuel et semi Collectif Isolé Ain Zaghouan la Marsa,1300,Tunis,,,,,
+"A vendre un terrain 1210m² titre individuelle coté les 3  nouvelles écoles , 300m du Rom-point cité IKALIL à bhar lazreg la marsa",650,Tunis,,,,,
+Appt non meublé à louer S+2 pour toute l'année,850,Sousse,S+2,À Louer,74,,2
+Duplex S+2 Riadh Andalouse Ariana,1100,Ariana,S+2,À Louer,1,2,2
+A louer  S+1 jamais habité haut standing à l'aouina cité wahat,1000,Tunis,S+1,À Louer,90,1,1
+Etage de Villa Arine à Louer à La Marsa,2000,Tunis,,À Louer,120,1,3
+للبيع ارض تمسح هكتار على الطريق بالحمامات 99958728,125000,Nabeul,,,,,
+A VENDRE S+4 – CITE EL WAHAT – TEL 58713586 – FB.6505,365000,Tunis,S+4,À Vendre,195.5,3,4
+A VENDRE S+3 NEUF  M² À CHOTRANA I,575000,Ariana,S+3,À Vendre,175,2,3
+A VENDRE S+3 D'UN SUPERFICIE 228 M² À CHOTRANA,630000,Ariana,S+3,À Vendre,228,2,3
+Appartement s+3 à boumhel,950,Ben Arous,,À Louer,90,2,3
+A louer dépôt ou Usine de 300m² à Borj Louzir près complexe Sportif,1800,Ariana,,À Louer,300,2,2
+PROJET NEUF R+2 À Soukra,460000,Ariana,,À Vendre,49,1,1
+terrain a vendre,67500,Ariana,,,,,
+منزل مستقل بسوم خيالي في قليبية,75000,Nabeul,,À Vendre,120,1,1
+A louer  S+1 jamais habité haut standing à l'aouina cité wahat,900,Tunis,S+1,À Louer,89,1,1
+Location Annuelle : Un appartement S+2 Haut Standing avec piscine à AFH2 Mrezga Nabeul.,,Nabeul,S+2,À Louer,110,1,2
+Appartement S+4 Ennasr 1,1700,Ariana,S+4,À Louer,180,2,3
+À louer S+2 meublé avec un petit jardin,,Ariana,S+2,À Louer,75,1,2
+A VENDRE S+1 – JARDINS DE CARTHAGE – 58713586 – FB.7062,320000,Tunis,S+1,À Vendre,72,1,1
+À louer kiosque neuf,19000,Ariana,,À Louer,3000,3,3
+À louer villa haut standing à ennasr,9800,Ariana,,À Louer,648,7,6
+A louer un S+3 à Ennasr 1,1500,Ariana,S+3,À Louer,160,0,3
+À vendre S+4 a ennasr,350000,Ariana,S+4,À Vendre,130,3,4
+À vendre un terrain très proche de la mer,260000,Nabeul,,,,,
+À vendre un appartement S+4 haut standing avec une grande terrasse,600000,Ariana,S+4,À Vendre,220,3,4
+En vente un appartement S+3 à Sahloul 4 avec un prix très intéressant 🤩,310000,Sousse,S+3,À Louer,114,1,3
+A vendre duplex S+5 à Ennasr,630000,Ariana,S+5,À Vendre,210,3,5
+À louer S+3 haut standing à ennasr,1300,Ariana,S+3,À Louer,150,2,3
+A vendre une nouvelle résidence  R+2 à RIADH LANDALOUS,,Ariana,,À Vendre,1000,0,3
+A vendre un apparemment S+4 à Ennasr 2,770000,Ariana,S+4,À Vendre,222,3,5
+À vendre villa à ennasr,890000,Ariana,,À Vendre,402,5,8
+À vendre duplex à ennasr,560000,Ariana,,À Vendre,200,3,3
+À louer rdc de villa à ennasr,1650,Ariana,,À Louer,200,2,3
+appartement s1 a boumhal bassatine,850,Ben Arous,,À Louer,70,1,1
+À vendre un appartement S+4 avec garage,550000,Ariana,S+4,À Vendre,202,2,4
+À vendre villa jumelée à Ennasr,660000,Ariana,,À Vendre,220,1,4
+A vendre un DUPLEX à Ennasr 2,750000,Ariana,,À Vendre,220,2,4
+s+3 menzah1,1700,Tunis,,À Louer,180,2,3
+A louer une Villa avec piscine à ENNASR 2,4200,Ariana,,À Louer,550,3,9
+A louer une Villa à Ennasr 2,4500,Ariana,,À Louer,450,0,6
+À vendre S+1 à ennasr,,Ariana,S+1,À Vendre,45,1,1
+A louer appartement S+0 neuf près Clinique Soukra,900,Ariana,S+0,À Louer,40,1,1
+𝒂 𝒗𝒆𝒏𝒅𝒓𝒆 𝒕𝒆𝒓𝒓𝒂𝒊𝒏 𝑹+4 𝒔𝒖𝒓 𝒍𝒂 𝒓𝒐𝒖𝒕𝒆 𝒑𝒓𝒊𝒏𝒄𝒊𝒑𝒂𝒍𝒆 𝒂̀ 𝒎𝒂𝒉𝒅𝒊𝒂,2500,Mahdia,,,,,
+Av villa 700m meublé avec piscine à Hammamet sud,590000,Nabeul,,À Vendre,700,2,3
+Etage de villa S+3 à Rades Meliene.,250,Ben Arous,S+3,À Louer,170,2,3
+Local Industriel à louer,,Sfax,,,,,
+Terrain clôturé à louer,,Sfax,,,,,
+مقاول موجود بمنوبة55671250,1100,La Manouba,,,,,
+opportunité pour un terrain a mourouj 6,,Ben Arous,,À Vendre,235,0,0
+La marsa,2800,Tunis,,À Louer,150,2,2
+appartement meublé cv Tunis par jour et par mois,80,Tunis,,À Louer,60,1,2
+La Soukra,1300,Ariana,,À Louer,128,2,3
+a vendre appartement s3 avec place de parking sous sol a cité el wahatt,320000,Tunis,,À Vendre,140,2,3
+Sidi bou said,2000,Tunis,,À Louer,130,1,3
+Meuble antique,1000,Nabeul,,,,,
+étage villa Marsa saf Safa,150,Tunis,,À Louer,100,1,2
+Villa de 500 m² sur un terrain de 704 m²,1650000,Ariana,,À Vendre,704,3,6
+studio s+1,120,Tunis,,À Louer,80,1,1
+A vendre villa de 460 m² sur un terrain de 500 m² à l'aouina,850000,Tunis,,À Vendre,750,6,6
+une maison de 400m² sur un terrain de 215 m² à Cité Essaha Ariana,320000,Ariana,,À Vendre,215,1,0
+Ain zaghouan,850,Tunis,,À Louer,85,1,2
+A vendre villa de 1250 m² au Borj Baccouche,1100000,Ariana,,À Vendre,1250,4,5
+A vendre appartement s3 avec deux places de parking sous sol a cité el wahatt,290000,Tunis,,À Vendre,145,2,3
+La Soukra,1000,Ariana,,À Louer,90,1,2
+A vendre Appartement S+2 à Borj louzir la Soukra,220000,Ariana,S+2,À Louer,105,1,2
+Aouina wahat,1150,Tunis,,À Louer,70,1,1
+studio à louer à sahloul-sousse .,900,Sousse,,À Louer,1,1,1
+A vendre dépôt de 400 m² à M'Nihla,550000,Ariana,,À Vendre,400,2,3
+La marsa plage,1800,Tunis,,À Louer,100,1,2
+A vendre : Terrain à Borj Cedria 630 m²,450,Ben Arous,,,,,
+location s1 meublé a Bayrem tounsi,800,Tunis,,À Louer,65,1,1
+A vendre appartement s2 spacieux a cite el wahatt,215000,Tunis,,À Vendre,109,1,2
+Appart S1 Nirva meublé à Louer à Ain Zaghouan Nord,1950,Tunis,,À Louer,100,1,1
+🌟 🌟MENZAH 9A ; à louer RDC VILLA S+3,,Tunis,S+3,À Louer,180,2,3
+Immeuble Paolis à Vendre à Bizerte,300000,Bizerte,,À Vendre,140,2,5
+A louer Villa de 420 m² sur un terrain de 812 m² à Sfax,5000,Sfax,,À Louer,812,4,4
+A vendre Bureau en H+3 de 101 m²,370000,Tunis,,À Vendre,101,1,3
+🏬  ENNASR 2 ; à LOUER LOCAL Bien situé 🏬,650,Ariana,,À Louer,16,1,1
+🌟 🌟ENNASR 2 ; à LOUER JOLI APPT S+2🌟 🌟,,Ariana,S+2,À Louer,130,2,2
+A louer un appartement S1 meublé à cité les palmerais,1400,Tunis,,À Louer,70,1,1
+🏠 SOUKRA  ; 𝐚̀ 𝐥𝐨𝐮𝐞𝐫 SPACIEUX  𝐚𝐩𝐩𝐭 𝐒+3🏠,,Ariana,,À Louer,150,2,3
+A Vendre maison s+3 a cité el wahatt,340000,Tunis,,À Vendre,210,2,3
+A louer S+6 de 250 m² meublé au Lac 1,8000,Tunis,S+6,À Louer,250,6,2
+A louer Bureau en H+3 au Lac 1,1500,Tunis,,À Louer,70,1,1
+🏠 𝐄𝐍𝐍𝐀𝐒𝐑 2 ; à LOUER  Spacieux Etage de villa 𝐒+4🏠,1250,Ariana,,À Louer,180,1,4
+استديو مفروش في تونس العاصمة باليوم,70,Tunis,,À Louer,40,1,1
+Fonds Darveau à Vendre D'une Quincaillerie à Rades,280000,Ben Arous,,À Vendre,150,1,3
+🌟 🌟ENNASR 2 ; à louer Agréable appt S+3,,Ariana,S+3,À Louer,180,2,3
+"Av café bien équipé en plein activité, le fond tout commerce à Ennasr 2",,Ariana,,À Vendre,116,1,1
+a vendre villa inachevé a borj touil,220000,Ariana,,À Vendre,480,1,3
+A louer immeuble prestigieux 4 niv 2400 m² à Mutuelle ville,56000,Tunis,,À Louer,2400,24,0
+A louer villa usg bureaux à Mutuelle ville,5500,Tunis,,À Louer,600,3,8
+أستديو في موقع ممتاز بباردو للكراء,730,Tunis,,À Louer,60,1,2
+A louer villa 3 niv ac piscine usg bur ou hab Mutuelleville,7000,Tunis,,À Louer,500,4,2
+A louer un  S+3  à Jardins de carthage,2500,Tunis,S+3,À Louer,1,1,3
+A louer S1 meublé de 75m2 à cité les palmeraies,1350,Ariana,,À Louer,75,1,1
+Belle Villa S+4 à Hammamet à Vendre Tél/whatsapp : 50499055,845000,Nabeul,S+4,À Vendre,440,2,4
+"la  Marsa  plein  centre  ville  loue  un  appt  un  S +2  , loyer : 1200 d /  mois , tél :  29 318 386",1200,Tunis,,À Louer,70,2,1
+a vendre villa a raoued,430000,Ariana,,À Vendre,596,2,3
+Av terrain de 200m à Hammamet sud 99958728,44999,Nabeul,,,,,
+A louer un studio meublé à Sidi Bousaid,1600,Tunis,,À Louer,40,1,1
+un joli appartement s+2 haut gamme haut standing,1200,Sousse,,À Louer,100,1,2
+a vendre terrain el ghazela,572000,Ariana,,,,,
+S+1/2/3 luxueux meublés par nuitée,70,Ariana,S+1,À Louer,100,2,2
+A louer un S2 vide à l'Aouina,1000,Tunis,,À Louer,110,1,2
+Terrain agricole 14280 m²  à Kelibia,1000000,Nabeul,,,,,
+A louer immeuble en finition 1235 m² au Belvédère,25730,Tunis,,À Louer,1235,21,0
+A vendre s0,99000,Tunis,,À Vendre,33,1,1
+A louer immeuble neuf en R4 de 2370 m² à Place Pasteur,37580,Tunis,,À Louer,2370,30,0
+A louer immeuble 5 niv 1307 m² à Place Pasteur Tunis,300,Tunis,,À Louer,1307,10,15
+À LOUER : Un spacieux et lumineux S+3 situé au Jardin de L'Aouina,1150,Tunis,S+3,À Louer,,,2
+A LOUER : Un appartement S+2 situé à La Nouvelle Soukra ( ‼️Jamais habité ‼️ ),1350,Tunis,S+2,À Louer,,,2
+A louer local commercial ou dépôt de 190m²,1300,Ariana,,À Louer,190,1,1
+A LOUER : Un appartement S+1 situé au Jardin de L'Aouina,1100,Tunis,S+1,À Louer,,,1
+UN MAGNIFIQUE S2 AVEC TERASSE AUX JARDINS DE CARTHAGE,2200,Tunis,,À Louer,,,
+Terrain El Menzah 5,2400000,Ariana,,,,,
+À LOUER : Un appartement S+2 situé au Jardin de L'Aouina,1200,Tunis,S+2,À Louer,,,2
+A louer 1er étage de villa de type s+4 megrine coteau,1150,Ben Arous,,À Louer,140,2,4
+A LOUER S+1 – WAHAT – 58713586 – FB.7057,1350,Tunis,S+1,À Louer,58,1,1
+A Louer Appartement S+1 à Cité Ennasr,1100,Ariana,S+1,À Louer,85,0,1
+A Louer RDC de Villa à Cité Ennasr 1,1300,Ariana,,À Louer,220,0,2
+À Vendre : Appartements S+2 Direct Promoteur,,Tunis,S+2,À Vendre,,,2
+A VENDRE S+1 – CITE WAHAT – TEL 58713586 – FB.6889,240000,Tunis,S+1,À Vendre,90,1,1
+À Vendre : Un appartement S+4 situé à Jardin L'Aouina,390000,Tunis,S+4,À Vendre,,1,4
+A VENDRE S+4 – CITE EL WAHAT – TEL 58713586 – FB.6505,365000,Tunis,S+4,À Vendre,185,2,4
+A VENDRE S+2 – CITE WAHAT – TEL 58713586 – FB.6719,340000,Tunis,S+2,À Vendre,124,2,2
+"A Vendre : Un appartement S+2, Situé à Cité Wahat",235000,Tunis,S+2,À Vendre,,,
+Terrain De Villa Clos à Vendre à Boumhal,240000,Ben Arous,,,,,
+"A Vendre : Un lumineux Duplex S+3 DIRECT PROMOTEUR, Situé à La Soukra",780000,Ariana,S+3,À Vendre,,,
+APPART S+2 HTS A H.LIF,1100,Ben Arous,S+2,À Louer,160,1,3
+A Vendre : Des appartements S+2 et S+3 ( Direct Promoteur ) situé à La Nouvelle Soukra,,Tunis,S+2,À Vendre,,,
+Villa individuelle,1900000,Ariana,,À Vendre,1000,,
+A louer S+2 au RDC el Medina el Jadida,450,Ben Arous,S+2,À Louer,80,1,2
+A LOUER – S+1 – CITE EL WAHAT – TEL 58713586 – FB.7067,800,Tunis,S+1,À Louer,65,1,1
+A vendre : Un appartement S+2 situé à Chotrana 3,360000,Ariana,S+2,À Vendre,,1,2
+À Vendre : Des appartements S+1 et S+2 situé à La Nouvelle Soukra,171000,Tunis,S+1,À Vendre,,,
+A VENDRE S+1 – JARDINS DE CARTHAGE – 58713586 – FB.7062,320000,Tunis,S+1,À Vendre,72,1,1
+À louer : S+1 avec place parking en très bon état à El Madina El Jadida,800,Ben Arous,S+1,À Louer,70,1,1
+APPART S+2 NEUF A EZZAHRA,1200,Ben Arous,S+2,À Louer,125,1,3
+duplex s+4 de 500m à hammamet sud 📞99202001📞,235000,Nabeul,,À Vendre,500,4,2
+"A vendre : Un appartement S+3 haut standing, situé à La Soukra",650000,Ariana,S+3,À Vendre,,,3
+MAISON S2 MEUBLE A EZZAHRA,120,Ben Arous,,À Louer,120,1,3
+A VENDRE S+3 – CITE WAHAT – TEL 58713586 – FB.6807,258000,Tunis,S+3,À Vendre,98,1,3
+À Louer : Un Luxueux appartement S+3 situé à La Nouvelle Soukra,1900,Tunis,S+3,À Louer,,,3
+A LOUER S+1 – LA NOUVELLE SOUKRA– 58713586 – FB.6841,1050,Tunis,S+1,À Louer,60,1,1
+À Louer : Un appartement S+2 situé à Cité Wahat,1300,Tunis,S+2,À Louer,,,2
+A LOUER – S+1 – LA NOUVELLE SOUKRA- TEL 58713586 – FB.6983,1200,Tunis,S+1,À Louer,70,1,1
+A Vendre : Un spacieux appartement S+3 direct promoteur situé à La Soukra,580000,Ariana,S+3,À Vendre,175,1,3
+APPART S+2 A EZZAHRA LOULIJA,850,Ben Arous,S+2,À Louer,86,1,3
+À vendre : Un appartement spacieux et rénové S+3 Situé à Cité Wahat,310000,Tunis,S+3,À Vendre,134,,3
+LOCAL 40M2 A EZZAHRA,1700,Ben Arous,,À Louer,40,1,1
+𝔸 𝕍𝔼ℕ𝔻ℝ𝔼  un terrain à Hammamet Nord 29256226,,Nabeul,,,,,
+A Louer : Un appartement S+2 situé à Cité Wahat,,Tunis,S+2,À Louer,,,2
+À Vendre : Un spacieux appartement S+2 situé à La Soukra,250000,Ariana,S+2,À Vendre,,,2
+A louer magnifique s+1 meublé LAC 2,1550,Tunis,,À Louer,65,1,1
+"A Vendre : Un merveilleux appartement S+2, Situé à La Nouvelle Soukra",390000,Tunis,S+2,À Vendre,,3,2
+ETAGE S+1 A EZZAHRA,450,Ben Arous,S+1,À Louer,60,1,2
+A vendre des appartements S+1 direct promoteur,,Tunis,S+1,À Vendre,,,-1
+Appartement S+1 Hammamet nord,1000,Nabeul,S+1,À Louer,83,1,-1
+Une Belle villa  S+4 à Vendre PROCHE DE YASMINE HAMMAMET,790000,Nabeul,S+4,À Vendre,430,3,4
+Appartement en s+3,3500,Tunis,,À Louer,165,3,3
+À Vendre : Maison d'hôte à JBEL LOUEST,500000,Zaghouan,,À Vendre,9670,,4
+SHOWROOM 120M2 A EZZAHRA,1800,Ben Arous,,À Louer,120,1,2
+"🏡 À Vendre : NOUVEAUX APPARTEMENTS "" S+1 , S+2 , S+3 ET DES DUPLEX "" ( DIRECT PROMOTEUR ) 🏡",,Tunis,S+1,À Vendre,,,
+À Louer : Un appartement S+3 situé à Cité Wahat,1600,Tunis,S+3,À Louer,,1,3
+Pro-immobilière met en vente une belle villa située à Bir Bouragba-HAMMAMET,450000,Nabeul,,À Vendre,300,3,2
+STUDIO S1 MEUBLE A EZZAHRA,90,Ben Arous,,À Louer,55,1,2
+A louer local commercial ou dépôt de 190m²,1300,Tunis,,À Louer,190,1,1
+A vendre à Hammamet MONCHAR un terrain de 1000 m² à 220 dt/m²,220000,Nabeul,,,,,
+Appartement S+0 meublé à Marsa Corniche,,Tunis,S+0,À Louer,70,1,0
+Une Villa S3 a louer à l’année à Hammamet,1800,Nabeul,,À Louer,500,3,3
+Villa s+4 a vendre a borj ghorbel,260000,Ben Arous,,À Vendre,256,0,4
+A vendre à cité AFH Hammamet une villa S+3,630000,Nabeul,S+3,À Vendre,300,2,3
+A louer un appartement de type s+3 à nouvelle médina3,850,Ben Arous,,À Louer,120,1,3
+S+1 meublé Ennasr2 pour étranger haut standing très propre,1200,Ariana,S+1,À Louer,74,1,1
+LOCATION  ÉTAGE DE VILLA S+3 VIDE AVEC JARDIN A MUTUELLEVILLE,1800,Tunis,S+3,À Louer,200,2,3
+Réparateur des stores,10,Ariana,,,,,
+LOCATION BUREAU  HALL + 4   AU CENTRE URBAIN NORD,3500,Tunis,,À Louer,150,3,5
+A VENDRE S+3 A YASMINETTE,135000,Ben Arous,S+3,À Vendre,109,1,3
+un joli bureau A+1 au rond-point garenemsa,580,Sousse,,À Louer,50,1,1
+Location grand studio meublée au centre urbain nord,1600,Tunis,,À Louer,80,1,2
+LOCATION  S1 MEUBLÉE AU CENTRE URBAIN NORD,111,Tunis,,À Louer,90,1,2
+Villa Copalme à Vendre à Borj Cedria,650000,Ben Arous,,À Vendre,447,2,3
+Bureau à menzah 5,1500,Ariana,,À Louer,150,2,3
+Studio à vendre en plein centre ville,40000,Tunis,,À Vendre,25,1,2
+A LOUER S+3 – AOUINA – TEL 58258423 – FB.7033,1200,Tunis,S+3,À Louer,150,1,3
+400M2 R+2mornag20min cv tunis,450,Ben Arous,,,,,
+"A Vendre un S+1, en cours de construction, avec une belle vue sur piscine à AFH Mrezga Nabeul.",325000,Nabeul,S+1,À Vendre,80,1,1
+A VENDRE S+2 – WAHAT – TEL 58258423 – FB.6946,272700,Tunis,S+2,À Vendre,101,1,2
+a vendre un appartement S2 avec place parking sous sol a la nouvelle medina,250000,Ben Arous,,À Vendre,102,2,2
+A VENDRE S+2 – EL AOUINA – TEL 58258423 – FB.6785,284850,Tunis,S+2,À Vendre,94,1,2
+A LOUER S+1 MEUBLE – LA SOUKRA – TEL 56306032 – FB.6972,1200,Ariana,S+1,À Louer,55,1,1
+A VENDRE S+1 -  CITE EL WAHAT – TEL 58258423 – FB.6939,174335,Tunis,S+1,À Vendre,49,1,1
+A  LOUER VILLA DE DEUX ÉTAGES S+2 ET S+4 A RADES PLAGE,1800,Ben Arous,S+2,À Louer,400,2,4
+A VENDRE S+1- CITE EL WAHAT – TEL 58258423 – FB.6940,181230,Tunis,S+1,À Vendre,51,1,1
+A LOUER S+2 – AIN ZAGHOUAN – 58258423 – FB.6985,1200,Tunis,S+2,À Louer,80,1,2
+A LOUER S+1 – JARDINS LAOUINA – 58258423 – FB.7041,1700,Tunis,S+1,À Louer,60,1,1
+A LOUER S+2 MEUBLE – L’AOUINA – TEL 58258423 – FB.6988,1500,Tunis,S+2,À Louer,80,1,2
+A VENDRE S+3 – CITE WAHAT – TEL 58258423 – FB.6807,260000,Tunis,S+3,À Vendre,98,1,3
+bureaux a louer,,Ben Arous,,À Louer,100,1,3
+AV 2 studios de 160m à bareket sehel 📞99202001📞,320000,Nabeul,,À Vendre,160,2,3
+A LOUER DEPOT – AIN ZAGHOUAN – TEL 58258423 – FB.7001,2200,Tunis,,À Louer,300,1,1
+A louer dépôt ou Usine de 300m² à Borj Louzir près complexe Sportif,1800,Ariana,,À Louer,300,300,2
+A VENDRE S+2 – SOUKRA – TEL 58258423 - FB.7006,460000,Ariana,S+2,À Vendre,125,1,2
+A LOUER S+2 – AIN ZAGHOUAN – 58258423 – FB.6977,1200,Tunis,S+2,À Louer,80,1,2
+À Vendre Appartement S3 à El Menzah 9 b,,Tunis,,À Vendre,110,2,3
+location des bureaux au plein centre ville apartir de 250 dt,250,Tunis,,À Louer,30,1,0
+A vendre une villa RDC s+3 à nouvelle médina prés hôpital yassminette,350000,Ben Arous,,À Vendre,200,1,3
+a louer des bureaux a des prix raisonable,250,Tunis,,À Louer,30,1,0
+hall plus 3 bureautique a el manar 2 wb3748,1400,Tunis,,À Louer,80,1,3
+studio aux jmzh 2 wb1383,450,Ariana,,À Louer,60,1,1
+Appartement S+1 Meublé à louer par nuitée L'aouina lwahat,120,Tunis,S+1,À Louer,70,1,1
+"A Louer : Appartement S+2, 125m² à La Soukra",1320,Ariana,S+2,À Louer,125,2,2
+studio meubél au rez de jardin a el manzah 9b wb1623,1000,Tunis,,À Louer,60,1,1
+s plus 2 a jeanne d'arc wb3849,1000,Tunis,,À Louer,100,1,2
+Vente duplex s3 avec entrée voiture a Nouvelle Madina cité prime,197000,Ben Arous,,À Vendre,98,1,3
+a louer des bureaux  au plein centre ville lafayette apartir de 250 dt,250,Tunis,,À Louer,20,1,0
+Villa à Borj louzir,920000,Ariana,,À Vendre,539,2,6
+studio s0 meublé a el manzah 8 wb3944,700,Ariana,,À Louer,50,1,1
+etage de villa s plus 3 a riadh landalos wb4011,1100,Ariana,,À Louer,110,1,3
+Terrain Promoteur Bleuette à Vendre à Gammarth,1400000,Tunis,,,,,
+Dépôt de 1766 m²  à louer,15000,Tunis,,À Louer,1766,0,0
+Appartement S+2 Direct Promoteur à La Soukra,401000,Ariana,S+2,À Vendre,99,1,2
+Coquet appartement pour vos courts séjours dans la banlieu de Tunis,90,Tunis,,À Louer,70,1,1
+Un Appartement S+2 Direct promoteur à Ain Zaghouan,313000,Tunis,S+2,À Vendre,85,0,2
+Appartement S+1 Direct promoteur à Ain Zaghouan,237500,Tunis,S+1,À Vendre,59,0,1
+slpendide appartement pour vos vacances dans la banlieu de Tunis,90,Tunis,,À Louer,75,1,1
+s0 meublé a ennasr 2 wb2536,800,Ariana,,À Louer,50,1,1
+s plus 2 a usage bureautique a mutuelle ville wb3264,1200,Tunis,,À Louer,100,1,2
+S+1 Haut Standing pour la location courte durée,,Nabeul,S+1,À Louer,65,1,1
+un joli studio s+1 à hammam sousse,500,Sousse,,À Louer,50,1,1
+Appartement S+2 - Sousse - Corniche,120,Sousse,S+2,À Louer,85,1,3
+Terrain Agricole Mandarine à Vendre à Mornag,340000,Ben Arous,,,,,
+villa S+3 meublée à louer à ain zaghouen nord,3500,Tunis,S+3,À Louer,221,0,3
+Une Belle Villa S+5 avec jardin à louer à L'Aouina,3500,Tunis,S+5,À Louer,480,4,5
+Un Appartement s+1 direct promoteur à la Nouvelle Soukra,234000,Tunis,,À Vendre,59,0,1
+s plus 2 meublé a la cité wahat wb3887,1600,Tunis,,À Louer,100,1,2
+studio indépendant a ennasr 1 wb3989,850,Ariana,,À Louer,35,1,1
+Une Splendide Villa S+3 près de Closerie à La Soukra,6000,Ariana,S+3,À Louer,300,3,4
+Une Villa jumelée à vendre à La Soukra,,Ariana,,À Vendre,230,0,5
+Appartement S+3 à vendre l'aouina,320000,Tunis,S+3,À Vendre,155,0,3
+Appartement S+2 direct promoteur à vendre,410000,Ariana,S+2,À Vendre,129,0,1
+Un Appartement S+3 à vendre à La Soukra,640000,Ariana,S+3,À Vendre,140,0,3
+Bureau A+3 à louer à soukra,1500,Ariana,,À Louer,81,1,3
+Bureau A+3 à louer à soukra,2000,Ariana,,À Louer,118,1,4
+Un Luxueux Appartement S+2 avec piscine à louer à La Soukra,2100,Ariana,S+2,À Louer,190,1,2
+Appartement S+1 Direct Promoteur à vendre à l'aouina,185000,Tunis,S+1,À Vendre,50,0,1
+Un Duplex Neuf  S+3 à vendre à La Soukra,,Ariana,S+3,À Vendre,216,0,3
+Un Appartement S+2 à louer à La Soukra,1699,Ariana,S+2,À Louer,124,1,2
+Bureau A+4 à louer à La Soukra,2300,Ariana,,À Louer,138,0,4
+Villa De Luxe de Style Minimaliste S+4 à vendre à La Soukra,,Ariana,S+4,À Vendre,457,0,3
+Bureau A+3 à louer à la soukra,2500,Ariana,,À Louer,116,0,3
+Appartement S+2 à vendre l'aouina,220000,Ariana,S+2,À Vendre,150,0,2
+Un Superbe Etage de Villa à louer à La Soukra,1900,Ariana,,À Vendre,155,2,3
+Appartement S+3 à vendre l'aouina,320000,Tunis,S+3,À Vendre,155,0,3
+Une Villa S+5 avec piscine à vendre à La Soukra,970000,Ariana,S+5,À Vendre,300,2,5
+Un Appartement S+2 Neuf à louer à La Soukra,1400,Ariana,S+2,À Louer,110,1,2
+Un duplex S+4 direct promoteur à Ain Zaghouan Nord,,Tunis,S+4,À Vendre,218,0,4
+Un Appartement S+2 Meublé à La Soukra,1800,Ariana,S+2,À Louer,125,0,2
+A vendre beau terrain 160m2 rawed plage papiers en règle,35000,Ariana,,,,,
+Un Appartement S+1 Neuf à louer à L'Aouina,950,Tunis,S+1,À Louer,70,0,1
+Magazins ShowRoom salle sport,,Ariana,,À Louer,12345,2,2
+bureau hall plus 3 a l'ariana wb1039,850,Ariana,,À Louer,84,1,2
+etage de villa s plus 4 a ennasr 1 wb1179,1400,Ariana,,À Louer,140,1,4
+Terrains à Borj Cédria,570,Ben Arous,,,,,
+maison a cité el kadhra (Filles),,Tunis,,À Louer,140,1,2
+s plus 3 a el manar 1 wb2556,900,Tunis,,À Louer,145,1,3
+duplex s plus 2 a ksar said wb1283,130000,Tunis,,À Vendre,117,1,2
+A louer Bel appartement S 1 près garde nationale jardins manzah,650,Ariana,,À Louer,1,1,2
+s plus 3 bureautique a alain savary wb3221,1150,Tunis,,À Louer,80,1,3
+etage de villa s plus 3 a el manzah 8 wb1965,390000,Ariana,,À Vendre,170,1,3
+ارض للبيع,,Mahdia,,,,,
+un joli studio s+1 à sahloul,650,Sousse,,À Louer,50,1,1
+A louer Bel appartement S 1 près garde nationale jardins manzah route Bizerte,650,Ariana,,À Louer,1,1,3
+à vendre un appartement s+2 haut standing - RDC - à El Mourouj 6.,220000,Ben Arous,,À Vendre,92,1,2
+A vendre un #Studio  S0 RDC  à El Mourouj 5.,40000,Ben Arous,,À Vendre,16,1,1
+Appartement à louer,1200,Ben Arous,,À Louer,85,1,2
+#A_vendre Un appartement s+2 propre à El Mourouj 5 juste à coté El Magasin général.,105000,Ben Arous,,À Vendre,84,1,2
+à vendre un appartement s+2 très haut standing à El Mourouj6.,,Ben Arous,,À Vendre,117,2,2
+Villa S+4 Ennkhilet,1000,Ariana,S+4,À Louer,357,3,5
+#Location_Meublé. Appartement meublé s+2 très haut standing à #El_Mourouj_6.,120,Ben Arous,,À Louer,100,1,2
+#Location_Meublé  Appartement meublé s+2 très propre haut standing à #El_Mourouj_6.,110,Ben Arous,,À Louer,100,1,2
+#Location_Meublé   Appartement meublé s+1 très haut standing à #El_Mourouj_6.,100,Ben Arous,,À Louer,70,1,1
+A vendre  Appartement  s+2  haut  standing  avec  jardin  privé - à  El Mourouj 6.,255000,Ben Arous,,À Louer,153,1,2
+A louer un appartement meublé s+2 à El Mourouj 5.,80,Ben Arous,,À Louer,90,1,2
+A louer Bel appartement S 2 Ariana ville,780,Ariana,,À Louer,1,1,3
+un joli appartement s+2 haut gamme haut standing,700,Sousse,,À Louer,100,1,2
+Fonds de commerce 400 m2 Sidi Bou Said a vendre,420000,Tunis,,À Louer,65,2,2
+Nour Jaafar S+2 à louer,800,Ariana,S+2,À Louer,95,1,2
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de climatiseur et Wifi 📷,80,Nabeul,,À Louer,114,1,2
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de climatiseur et Wifi 📷,80,Nabeul,,À Louer,112,1,2
+pieds dans l eau hammamet nord,120,Nabeul,,À Louer,150,2,2
+étage de villa duplex richement meublé à gammarth,1800,Tunis,,À Louer,2,2,2
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de chauffage central et Wifi 📷,80,Nabeul,,À Louer,115,1,2
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de chauffage central et Wifi 📷,80,Nabeul,,À Louer,115,1,2
+étage de villa à vendre prix forsaaaa 📣📣📣📣📣,198,Sousse,,À Vendre,200,2,4
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de chauffage central et Wifi 📷,80,Nabeul,,À Louer,116,1,2
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de chauffage central et Wifi 📷,80,Nabeul,,À Louer,112,1,2
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de chauffage central et Wifi 📷,80,Nabeul,,À Louer,114,1,2
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de chauffage central et Wifi 📷,80,Nabeul,,À Louer,116,1,2
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de chauffage central et Wifi 📷,80,Nabeul,,À Louer,112,1,2
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de chauffage central et Wifi 📷,80,Nabeul,,À Louer,112,1,2
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de chauffage central et Wifi 📷,80,Nabeul,,À Louer,114,1,2
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de chauffage central et Wifi 📷,80,Nabeul,,À Louer,113,1,2
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de chauffage central et Wifi 📷,80,Nabeul,,À Louer,119,1,2
+A louer des magnifiques appartements s+2 avec terrasse 📷 richement meublés et équipés de chauffage central et Wifi 📷,80,Nabeul,,À Louer,116,1,2
+studio au kram,50,Tunis,,À Louer,60,1,1
+Duplex s4 268 m2 haut standing à Menzah 7 bis,,Ariana,,À Vendre,208,3,4
+frigidaire LG Gaz inox  w bibliotaique,600,Tunis,,,,,
+À louer par #jour S1 meublé + garage pour voiture à sousse ville près de gazarna sousse et clinique yosr et prés de tout commodité num : 58 770 620 للكراء باليوم استديو بسوسة بجانب مصحة اليسر و بجانب الاكاديمية العسكرية . الرقم: 58770620 whatapp; +21626996231,7,Sousse,,À Louer,120,1,1
+studio meublé ennasr,130,Ariana,,À Louer,70,1,1
+appartement s2 ennasr,130,Ariana,,À Louer,130,1,2
+studio meublé ennasr,100,Ariana,,À Louer,70,1,1
+studio meublé ennasr,150,Ariana,,À Louer,80,1,1
+A LOUER – S+1 MEUBLE – WAHAT – TEL 52156061 – FB.6999,1397,Tunis,S+1,À Louer,80,1,1
+A louer,370,Tunis,,À Louer,,,2
+A LOUER LOCAL COMMERCIAL– WAHAT – TEL 52156061 – FB.6893,2999,Tunis,,À Louer,100,0,2
+A VENDRE S+3 – EL wahat – TEL 52156061– FB.6885,309999,Tunis,S+3,À Vendre,130,1,2
+A VENDRE – S+3 – WAHAT – TEL 52156061 – FB.7009,349999,Tunis,S+3,À Louer,138,2,1
+A LOUER – S+1 – SOUKRA PARK – TEL 52156061- FB.6992,999,Ariana,S+1,À Louer,63,1,-1
+A LOUER – S+3 – wahat – TEL 52156061- FB.6990,1599,Tunis,S+3,À Louer,140,2,3
+Apparemment S1 non meublé à chatt meriem,400,Sousse,,À Louer,80,1,2
+A LOUER – S+1 MEUBLE – AOUINA – TEL 52156061 – FB.7075,950,Tunis,S+1,À Louer,70,1,-1
+A LOUER – FOND DE COMMERCE – LAC 1 – TEL 52156061- 7073,80000,Tunis,,À Vendre,63,1,1
+A LOUER – S+3 – ARIANA RIATH ANDALOUS – TEL 52156061 – FB.7039,1100,Ariana,S+3,À Louer,110,1,3
+دبو للكراء,300,Sfax,,À Louer,45,1,1
+Location villa meublée Soukra par jour,110,Ariana,,À Louer,200,2,2
+location local industrielle 300 m a choutrana,1800,Ariana,,À Louer,300,2,2
+terrain,800,Ariana,,,,,
+S+2 à Sahloul 1,,Sousse,S+2,À Louer,100,1,2
+Ferme ouled ayouni,450000,Sidi Bouzid,,,,,
+New S+1,1050,Tunis,S+1,À Louer,55,1,1
+أرض بطريق العين كلم 12,37500,Sfax,,,,,
+Villa à vendre,,Ben Arous,,À Vendre,520,2,4
+je cherche,11111,Ariana,,,,,
+Villa el mrezga AFH,800,Nabeul,,À Vendre,240,3.0,7.0
+🏠Appartement S+0 à Ain Zaghouan,850,Tunis,S+0,À Louer,45,1,1
+a louer s+3 a laouina cite el wahat,1400,Tunis,,À Louer,165,3,3
+App S+2  Kélibia,1111,Nabeul,S+2,À Louer,120,1,2
+App S2 Kelibia,600,Nabeul,,À Louer,120,1,2
+a vendre un appartement s1 direct promoteur a la nouvelle soukra avec place parking sous-sol,240000,Tunis,,À Vendre,78,1,1
+A louer s+1 haut standing avec terrasse a ain zaghouan prés clinique soukra,1100,Tunis,,À Louer,86,1,1
+"A vendre joli S1 haute standinge a nouvelle soukra, l aouina",169000,Tunis,,À Vendre,50,1,1
+"a vendre s+1 haut standing 
+a cite el wahat laouina direct promoteur",,Tunis,,À Vendre,0,1,1
+شقة للكراء  مؤثثة البحيرة 1 غير بعيد عن مصحة عليسة   الشهر 1500  قابل للنقاش s+1,,Tunis,,À Louer,,,
+Bonne occasion d’un espace à louer à Sfax,2000,Sfax,,,340,1,2
+A vendre joli appartement S2 à Manar 2,230000,Tunis,,À Vendre,80,1,2
+Terrain a vendre #monastir #Bekalta#  قطعة أرض للبيع بالبقالطة تطل على البحر,310,Monastir,,,,,
+terrain,,Nabeul,,,,,
+"Terrain Agricole à vendre à Chorfech, Sidi Thabet",270000,Ariana,,,,,
+Studio meublé à Ennasr à louer par jour /nuitée dans Une résidence Calme et Sécurisée,60,Ariana,,À Louer,32,1,1
+Villa a vendre avec 2 studios sfax rte cheker,,Sfax,,À Vendre,1000,1,4
+A louer S+1 Neuf a cité el wahat,1100,Tunis,S+1,À Louer,78,1,1
+مقاول بناء 27989658,200,La Manouba,,,,,
+A LOUER S+1 MEUBLEE JARDINS DE CARTHAGE,1800,Tunis,S+1,À Louer,70,1,1
+A louer  S+2 Cité El Wahat,1200,Tunis,S+2,À Louer,110,1,2
+Grande maison a 3,350,Sfax,,À Louer,250,1,3
+قطعة ارض للبيع - Terrain à vendre 1000m²,,Sfax,,,,,
+Villa s4 avec piscine aux jardins de carthage MVL1132,5500,Tunis,,À Louer,1,1,4
+Appartement s4 meublé aux berges du lac 2 mal1253,4500,Tunis,,À Louer,1,1,4
+Étage de Villa Appartement,850,Ariana,,À Louer,160,1,4
+Appartement s2 à ain zaghouan nord MAL2075,1800,Tunis,,À Louer,1,1,2
+Villa s5 à La Marsa MVL0098,4800,Tunis,,À Louer,1,1,5
+Appartement s2 avec jardin à ain zaghouan nord MAL0696,2600,Tunis,,À Louer,1,1,2
+Triplex s4 aux jardins de carthage MTRL0024,4000,Tunis,,À Louer,1,1,4
+كان عندك برنامج بني 50611049,120,La Manouba,,,,,
+Appartement s1 meublé aux jardins de carthage zal1282,1800,Tunis,,À Louer,1,1,1
+Appartement s2 à La Soukra ZAL1272,1300,Ariana,,À Louer,1,1,2
+Appartement s3 avec jardin au jardin de Carthage MAL1261,3000,Tunis,,À Louer,1,1,3
+Villa s5 avec piscine à la Soukra ZVL0911,5100,Ariana,,,,,
+Appartement s4 à ain zaghouan  Mal1206,1800,Tunis,,À Louer,1,1,4
+Appartement s2 à La soukra MAL1273,1400,Ariana,,À Louer,1,1,2
+Appartement s2 aux jardins de Carthage MAL1734,1350,Tunis,,À Louer,1,1,2
+Appartement s2 à ain zaghouan nord MAL1210,1300,Tunis,,À Louer,1,1,2
+Duplex s2 avec terrasse à Gammarth MDL0549,4000,Tunis,,À Louer,1,1,0
+Appartement s3 à la Marsa MAL3102,2350,Tunis,,À Louer,1,1,3
+Appartement s2 à la Marsa MAL1287,2600,Tunis,,À Louer,1,1,2
+Duplex s3 avec jardin et piscine à la Marsa ZTRL0072,4500,Tunis,,À Louer,1,1,3
+Villa s3 avec piscine à la soukra MVL0670,4500,Ariana,,À Louer,1,1,3
+Appartement s3 meublé  à La Soukra,2200,Ariana,,À Louer,1,1,3
+Appartement s2 avec jardin à La Marsa MAL1256,2500,Tunis,,À Louer,1,1,2
+villa s+3,,Ben Arous,,À Vendre,200,2,3
+فرصة للسكن أو الاستثمار بأم هاني منزل بورقيبة,120,Bizerte,,,,,
+appartement S+2 richement meublé,980,Tunis,S+2,À Louer,110,1,3
+appartement S+3 cité olympique de rades,650,Ben Arous,S+3,À Louer,86,1,3
+Appartement S+2 haut standing au Lac 2,2100,Tunis,S+2,À Louer,120,2,3
+أرض للبيع طريق سكرة كم 5,280,Sfax,,,,,
+entrepreneurمقاول50628610,70000,La Manouba,,,,,
+Terrain de 232 m² à proximité de la plage de Hammam El Ghézaz,,Nabeul,,,,,
+conteneur,20000,Monastir,,,,,
+منزل للبيع حي 18 جانفي التضامن اريانة,85,Ariana,,À Vendre,105,1,3
+A vendre S+3 meublé Cité Riadh 1,104500,Sousse,S+3,À Vendre,80,1,3
+Villa a vendre,,Ben Arous,,À Vendre,233,1,3
+Bureau à Ariana,1000,Ariana,,À Louer,80,1,1
+Bureau A+1 Ariana pas loin de hôpital Mahmoud el Matri,1000,Ariana,,À Louer,80,1,1
+Terrain à vendre 2100 m,850,Ariana,,,,,
+Terrain route bouzayen km 10,110,Sfax,,,,,
+"Terrain à vendre Taniour Km 13,5 Teniour",,Sfax,,,,,
+Villa S3 radés meliane1,1400,Ben Arous,,À Louer,420,2,3
+A louer une maison S+3 au 1er étage,650,Ariana,S+3,À Louer,140,1,3
+immeuble a vendre عمارة 4 شقق للبيع,324000,Sfax,,À Vendre,450,10,16
+Bureau a lafayette,1050,Tunis,,À Louer,50,1,2
+Argentière Blenz,900,Sfax,,,,,
+à louer un appartement S+1 meublé à l'aouina Cité Taieb Mhiri,1400,Tunis,S+1,À Louer,90,1,1
+A louer S0 à la cité ENNASR 2,450,Ariana,,À Louer,22,1,1
+مقاول 21118137,220,Ben Arous,,,,,
+S+3 meublé à l'aouina Cité Taieb Mhiri,1800,Tunis,S+3,À Louer,157,1,3
+S1 meublé,,Sousse,,À Louer,80,1,1
+appartement a louer,450,Tunis,,À Louer,50,1,2
+Location S+2,1100,Tunis,S+2,À Louer,80,1,3
+AV un terrain de 500m² à kalaa essghira rommania,350,Sousse,,,,,
+S+2 à louer,1000,Tunis,S+2,À Louer,100,2,2
+studio a louer beja,3,Béja,,À Louer,50,1,1
+à vendre S+2 aux jardins de Carthage,480000,Tunis,S+2,À Louer,120,2,2
+Terrain à vendre 275m2,,Bizerte,,,,,
+S+3 meublé à l'Aouina Cité taieb Mhiri,1800,Tunis,S+3,À Louer,157,1,3
+Terrain Borj Touil,,Ariana,,,,,
+أرض للبيع في القلعة الكبرى,93000,Sousse,,,,,
+terrain à vendre à boumhel bassatine,500000,Ben Arous,,,,,
+Appartement haut standing S+2 El Ghazela,1050,Ariana,S+2,À Louer,122,1,2
+A loué appartement S+3 Mourouj 4,850,Ben Arous,S+3,À Louer,112,1,4
+Maison S+1 titre individuel a nour jaafar,137000,Ariana,S+1,À Vendre,104,1,2
+S+2 meublé à Slim centre,1750,Sousse,S+2,À Louer,130,1,2
+vue sur mer,,Sousse,,À Louer,89,1,2
+location vacances,,Sousse,,À Louer,80,1,2
+location vacances,,Sousse,,À Louer,90,1,2
+اراضي للبيع,,Ariana,,,,,
+par nuitée,,Sousse,,À Louer,70,1,2
+"لكراء في سوسة باليوم و الاسبوع 
+22707177
+Une bonne affaire pour profiter des vacances a sousse 
+🏩A louer  par nuitée",,Sousse,,À Louer,112,1,2
+"لكراء في سوسة باليوم و الاسبوع 
+22707177
+Une bonne affaire pour profiter des vacances a sousse 
+🏩A louer  par nuitée",,Sousse,,À Louer,80,1,2
+par nuitée,,Sousse,,À Louer,88,1,2
+"شقق لكراء في سوسة باليوم و الاسبوع 
+22707177",,Sousse,,À Louer,177,1,2
+باليوم و الاسبوع,,Sousse,,À Louer,93,1,2
+location vacances,,Sousse,,À Louer,87,1,2
+Appartement Double Vue Mer et Piscine,490000,Sousse,,À Vendre,80,2,2
+location vacances,,Sousse,,À Louer,80,1,2
+"لكراء في سوسة باليوم و الاسبوع 
+22707177
+Une bonne affaire pour profiter des vacances a sousse 
+🏩A louer  par nuitée",,Sousse,,À Louer,100,1,2
+Un Terrain de 471 M² à Borj El Touil,189000,Ariana,,,,,
+Terrain de 367 m² à Morneg,220000,Ben Arous,,,,,
+bibliothèque,500,Tunis,,,,,
+Des lots de terrain à vendre derrière parc sportif borj louzir ariana,300,Ariana,,,,,
+ارض فلاحية للبيع,150000,Tozeur,,,,,
+Terrain pour villa à la zone touristique de Monastir,675000,Monastir,,,,,
+Appartement Neuf,1500,Nabeul,,À Louer,93,2,2
+Villa,780000,Ariana,,À Vendre,255,02,05
+Villa à vendre Rte de Tunis km 8,470000,Sfax,,À Vendre,650,2,5
+"Deux locaux a vendre ""Mur""",170000,Ben Arous,,À Vendre,50,1,2
+s+1 a louer,500,Ben Arous,,À Louer,60,1,1
+Terrain 341m² à zaouia mornag,580,Ben Arous,,,,,
+S+2 A LOUER,800,Ben Arous,S+2,À Louer,100,1,1
+Un Appartement S+2 de 90 m² à Borej Cedria,450,Ben Arous,S+2,À Louer,90,0,2
+location hammamet appartement par nuitée,100,Nabeul,,À Louer,78,1,1
+apparemment a aouina a vendre,400,Tunis,,À Vendre,127,2,3
+s+2 a louer a borj louzir a coté de carrefour market,500,Ariana,,À Louer,100,1,2
+appartement a vendre mornag,,Ben Arous,,À Vendre,150,1,4
+étage de villa individuel S+4 en vente,250000,La Manouba,S+4,À Vendre,364,2,5
+بناي بالوفقة 58670647,1000,La Manouba,,,,,
+APPARTEMENT  S+2 AUX JARDINS DE CARTHAGE,2200,Tunis,S+2,À Louer,,1,2
+appartement S+2 Haut standing en location,1000,La Manouba,S+2,À Louer,120,2,2
+Villa individuelle S+4 en vente,395000,La Manouba,S+4,À Vendre,227,1,4
+سانية هكتارين وربع للبيع,410000,Nabeul,,,,,
+"direct promoteur 
+a vendre des appartement haut standing a la nouvelle soukra",,Tunis,,À Vendre,100,2,2
+A vendre un appartement s3 direct promoteur a l’aouina citè wahat wahat,370000,Tunis,,À Vendre,154,2,3
+À _vendre un terrain à ezzahra saint germain,,Ben Arous,,,,,
+Villa plein pied a vendre,1700000,Tunis,,À Vendre,526,2,4
+Local commercial sur la route principal,4000,Monastir,,À Louer,1970,1,6
+appartement s1,190,Tunis,,À Louer,80,1,1
+Av appartement,235000,Tunis,,À Vendre,123,2,3
+Terrain a vandre forssa,,Ben Arous,,,,,
+Un Triplex neuf jamais habite,650,Tunis,,À Vendre,450,2,4
+Villa S+4 a louer,5500,Tunis,S+4,À Louer,420,1,4
+A louer un local commercial très propre,2200,Tunis,,À Louer,60,1,1
+a louer appartement s+1 meuble,1050,Tunis,,À Louer,75,1,1
+Grand terrain PRET pour projet agricole 40 ha,279999,Sidi Bouzid,,,,,
+S+3 en location,1800,Ariana,S+3,À Louer,150,2,3
+Villa Monchar Hammamet Sud,690000,Nabeul,,À Vendre,600,2,3
+Charmante Villa à vendre sur terrain de 800m²,459998,Sfax,,À Vendre,800,1,3
+Villa a vendre à chotrana,2600000,Ariana,,À Vendre,2200,4,5
+A vendre étage de villa,350000,Ariana,,À Vendre,160,1,3
+à louer appartements court séjour,79,Tunis,,À Louer,100,1,1
+Terrains R+2 à l'Aouina,680000,Tunis,,,,,
+A louer un local commercial sur la route principale Khaled Ibn walid,2200,Tunis,,À Louer,60,1,1
+"Maison S+3 à Louer, Oued Elile CHabaw",390,La Manouba,S+3,À Louer,80,1,2
+Maison a louer s+2,,Sousse,,À Louer,128,1,2
+الكراء محل تجاري علي شارع خالد ابن الوليد,2200,Tunis,,À Louer,60,1,1
+Duplex à Boumhel el Bassatine,,Ben Arous,,À Vendre,220,3,4
+RDC villa à Ennasr 2,1600,Ariana,,À Louer,150,1,2
+Appartement s+3 au Rdc à Boumhel,,Ben Arous,,À Louer,100,2,3
+Appartement s+1 Entre Ezzahra et Rades,,Ben Arous,,À Vendre,90,1,1
+Appartement s+3 à chouchet rades,280000,Ben Arous,,À Vendre,165,2,3
+local commercial à Ezzahra,,Ben Arous,,À Louer,200,3,4
+Duplex s+4 à Boumhel,395000,Ben Arous,,À Vendre,135,,
+Appartement s+1 entre Ezzahra et rades,150000,Ben Arous,,À Vendre,58,1,1
+Appartement s+2 à Bougarnine,700,Ben Arous,,À Louer,100,1,2
+Studio à Sfax pour location,300,Sfax,,À Louer,50,1,1
+A vendre un appartement s+3  à Menzah 9,230000,Tunis,,À Vendre,120,2,3
+A vendre une villa  à Menzah 9c,850000,Tunis,,À Vendre,350,3,4
+A louer un RDC Villa bureautique à Ennasr,1600,Ariana,,À Louer,180,1,3
+A louer un duplex pour usage bureautique Menzah 6,1700,Tunis,,À Louer,220,1,5
+A vendre une villa de rêve jamais habitée à Ennasr,,Ariana,,À Vendre,575,4,4
+A vendre des appartements s+2 et s+3 à boumhal,,Ben Arous,,À Vendre,114,2,2
+Appartement en s+3 Meublé,4000,Tunis,,À Louer,153,2,3
+maison à vendre,,Sousse,,À Vendre,460,1,4
+Terrain résidentiel en vente,250000,Sousse,,,,,
+Local à Menzah 7,5000,Ariana,,À Louer,1000,2,1
+Appartement S+2 en vente,215000,Sousse,S+2,À Vendre,112,1,2
+جميع اشغال البناء 28079463,120000,La Manouba,,À Vendre,120,1,3
+Appartement S+2 en vente,210000,Sousse,S+2,À Vendre,111,1,2
+Appartement S+2 en vente,222314,Sousse,S+2,À Vendre,76,1,2
+Location Par Jour/Nuitée S1 Appt Studio Meublé A  El Menzah 8 Tel 58309017,70,Ariana,,À Louer,80,1,1
+"studio richement meublé ,climatisé à louer par jour :Ariana cité Ennasr 20011116",70,Ariana,,À Louer,75,1,2
+"S1 Appartement Studio meublé, Location Courte Durée A Ariana:Menzah8, Ennasr Tel 58309017",80,Ariana,,À Louer,80,1,2
+A vendre fond de commerce tous activités sauf café sur la route principale 60 mètres carré,,Ben Arous,,À Vendre,60,1,2
+Studio bien équipée à louer,400,Tunis,,À Louer,60,1,1
+Appartement a louer a Den-Den,690,La Manouba,,À Louer,100,1,2
+Appart neuf de 3 pièces meublé  au rez de chaussée / Raoued,1060,Ariana,,À Louer,72,1,3
+terrain à vendre à tabarka,55000,Jendouba,,,,,
+Terrain 1070 m,130,Ben Arous,,,,,
+مفتاح في اليد,450,Ben Arous,,,,,
+"Vente terrain Manzel Jmil , bizerte",,Bizerte,,,,,
+"A Louer à la petite Sicile, La Goulette Local de 60 m²",1000,Tunis,,À Louer,60,2,1
+A Vendre S+3 aux Jardins de l'Aouina,370000,Tunis,S+3,À Vendre,147,2,3
+A Louer S+1 aux Jardins de Carthage,1400,Tunis,S+1,À Louer,65,1,1
+A Vendre Bureau H+3 au centre ville,290000,Tunis,,À Vendre,110,2,3
+A Louer S+1 Meublé à Ain Zaghouan Nord,1200,Tunis,S+1,À Louer,60,1,1
+A Louer S+2 au Lac 1,1400,Tunis,S+2,À Louer,110,2,2
+Terrain agricole,45000,Zaghouan,,,,,
+S+1 en location,800,Ariana,S+1,À Louer,,,
+Appartement S+1 mourouj 5,500,Ben Arous,S+1,À Louer,55,1,2
+App S1 ou S2 meublé aux Berges du lac 2 Tunis,150,Tunis,,À Louer,80,1,1
+A vendre Un grand S+3 à Manar 2,265000,Tunis,S+3,À Vendre,145,1,3
+À LOUER À YASMINE HAMMAMET,800,Nabeul,,À Louer,,1,1
+À Vendre – Appartement S+2 de 140 m² à Ain Zaghouan,410,Tunis,S+2,À Vendre,140,2,2
+App S1 ou S2 meublé à jardin de carthage,150,Tunis,,À Louer,80,1,1
+A louer Rez de Chaussée non-meublé,500,Le Kef,,À Louer,500,1,2
+Appartement 3 pièces bien meublé,600,Sousse,,À Louer,90,1,2
+4605m terrain à chotrana 1 la soukra,550,Ariana,,,,,
+Appartement 3 pièces bien meublé,600,Sousse,,À Louer,90,1,2
+Magnifique Apprt S2 bien meublé hautstanding 53260713 vue mer,80,Sousse,,À Louer,80,1,2
+Locations par nuitées 53260713,60,Sousse,,À Louer,70,1,2
+5 hectar menzel habib gabes,10000,Gabès,,,,,
+كراء شقة,350,Sfax,,À Louer,77,1,3
+dar a kasserine,130000,Kasserine,,À Vendre,317,1,4
+📢 Occasion à ne pas rater ! 📢,900,Bizerte,,À Louer,95,1,2
+"شقق فخمة وراقية جدا للايجار اليومي💯🌟
+Location appartement du luxé par nuitée au lac2 ⚡️💫⭐️",,Tunis,,À Louer,150,1,1
+Hall+2 en location,1000,Ariana,,À Louer,60,-2,-1
+dépôt,550,Sfax,,À Louer,70,0,1
+bâtiment R+2 au menzel bourguiba,,Bizerte,,À Vendre,447,6,6
+شقق فخمة للايجار💯🌟💯location appartement meublé au lac2,,Tunis,,À Louer,150,2,2
+Studio meublé kram plage,50,Tunis,,À Louer,50,1,1
+villa,,Ben Arous,,À Vendre,400,4,4
+A Louer APPARTEMENT S+2 A JARDIN DE CARTHAGE,2300,Tunis,S+2,À Louer,120,2,2
+A VENDRE S+2 LAC 2,459997,Tunis,S+2,À Vendre,105,1,2
+A vendre terrain Mannouba 320m2,299000,La Manouba,,,,,
+S+1 meublé Ennasr2 pour étranger haut standing très propre,1200,Ariana,S+1,À Louer,75,1,1
+une maison à denden Manouba,75000,La Manouba,,À Vendre,65,1,2
+A vendre DEPOT / ATELIER / USINE 1100m2 à charguia 1,4200000,Ariana,,À Vendre,1100,1,3
+A VENDRE FABULEUX VILLA AVEC PISCIEN GAMMARTH,1800000,Tunis,,À Vendre,330,2,6
+Terrain à vendre avec une villa inachevée de deux étages séparés,580000,Sfax,,,,,
+Appartement en s+3,1000000,Tunis,,À Vendre,212,3,3
+Etage villa à louer Tbolbi klm5,650,Sfax,,À Louer,170,1,3
+Super occasion terrain 700m2 commerciale kram west,400000,Tunis,,,,,
+A vendre SUPER S+1 AIN ZAGHOUANE NORD,240000,Tunis,S+1,À Vendre,53,1,1
+Super terrain 250m2 raoued plage,65000,Ariana,,,,,
+معمل صغير للكراء,550,Ariana,,À Louer,100,1,4
+s1 tres propre a carthage salammbo pres de la mer,650,Tunis,,À Louer,65,1,2
+Bureau neuf s 2 residence securisee beb lassal,650,Tunis,,À Louer,60,1,3
+Bureau neuf hall+2 residence securisee beb lassal,550,Tunis,,À Louer,40,1,2
+Dépôt à louer a  Sfax,,Sfax,,À Louer,530,1,1
+Terrain à vendre (Sounine - Rafraf),475000,Bizerte,,,,,
+triplex tres propre carthage Yasmina a cite steg,330000,Tunis,,À Vendre,100,3,9
+>Studio propre 2 chambres a essaidia pres metro,350,Tunis,,À Louer,40,1,2
+Appt s0 pres banque centrale mohamed5,480,Tunis,,À Louer,25,1,1
+rez de chaussee indépendant avec jardin prés  tgm salammbo,1200,Tunis,,À Louer,200,2,3
+une maison a nendre,90,Zaghouan,,À Vendre,212,1,4
+super bureau s4 de 120m2  a chedly kallala lafayet,1000,Tunis,,À Louer,120,1,5
+étage de villa s3 haut standing aux jardins l'aouina,1200,Tunis,,À Louer,120,2,4
+Etage de villa S+3 a louer,2000,Tunis,S+3,À Louer,140,2,3
+GRAND STUDIO AVEC GARAGE À GABES,60,Gabès,,À Louer,150,1,2
+A louer un appartement S+2 meublé - Kantaoui Sousse,1200,Sousse,S+2,À Louer,75,1,1
+A louer Villa bureautique S+9 à La Soukra,7000,Ariana,S+9,À Louer,700,4,9
+A louer un appartement S+2 meublé - La Zone touristique Sousse,800,Sousse,S+2,À Louer,75,1,2
+appartement propre s2 pres place barcelone,600,Tunis,,À Louer,80,1,3
+terrain de 4700m2,185000,Ben Arous,,,,,
+Maison meublée à louer à Borj louzir Ariana s+2,,Ariana,,À Louer,100,1,2
+local de 20m2 tout commerce a lafayet lafayet  super emplacment,1500,Tunis,,À Louer,20,1,1
+Appartement s+2 EL menzah8,1200,Ariana,,À Louer,90,01,03
+grand s4 habitation ou bureau pres Borguiba school lafayet,1200,Tunis,,À Louer,120,2,5
+Maisonnette independante s1 pres mg denden,300,La Manouba,,À Louer,60,1,2
+Etage haut standing s3 cite bounouk carthage,1100,Tunis,,À Louer,120,2,4
+Grand s1 rez de chaussee propre pres steg 20 mars,550,Tunis,,À Louer,70,1,2
+Super occasion terrain 425m2 titre bleu khaireddin,1000000,Tunis,,,,,
+Studio propre 2 chambres pres steg 20 mars,500,Tunis,,À Louer,50,1,2
+Terrain  à  Vendre Chotrana 2,1000,Ariana,,,,,
+Étage de villa S+1 à louer.,1100,Tunis,S+1,À Louer,90,1,2
+🔥🔥 A louer un s+2 meuble a cité wahatte,1500,Tunis,,À Louer,1,1,2
+🔥🔥 A vendre un s+1 aux jardins de Carthage,320,Tunis,,À Louer,72,1,1
+Villa inachevé en vente,520000,Sousse,,À Vendre,340,4,6
+🔥🔥 A louer un s+1 au rez-de-chaussée  aux jardins de Carthage,1300,Tunis,,À Louer,1,1,1
+Duplex avec piscine privative en vente à Hergla,719998,Sousse,,À Vendre,265,1,2
+Hall+3 a louer,1800,Tunis,,À Louer,190,2,3
+Appartement S+2 en vente,225000,Sousse,S+2,À Vendre,94,1,2
+S+1 direct promoteur en vente à Hergla,275000,Sousse,S+1,À Vendre,75,1,1
+Appartement S+2 en vente,245980,Sousse,S+2,À Vendre,87,1,2
+appartement s1 par nuitée,80,Sousse,,À Louer,55,1,1
+appartement s1 par nuitée,90,Sousse,,À Louer,67,1,1
+appartement s1 par nuitée,90,Sousse,,À Louer,75,1,1
+Duplex en vente,349000,Ben Arous,,À Vendre,152,2,3
+s1 meublé par nuitée,80,Ariana,,À Louer,60,01,01
+appartement s0 par nuitée,70,Sousse,,À Louer,45,1,1
+appartement s1 par nuitée,70,Sousse,,À Louer,75,1,1
+appartement s1 par nuitée,70,Sousse,,À Louer,71,1,1
+Studio Au bardo au 1ére Etage (للموظفين فقط),350,Tunis,,À Louer,11,1,2
+Appt s2 rez chaussee meuble pres carrefour champion lafayet,800,Tunis,,À Louer,60,1,3
+Location appartement,,Ariana,,À Louer,150,2,3
+s2 tres propre meuble pres de la mer la goulette,800,Tunis,,À Louer,70,1,3
+s0 meuble a fraceville pres dauphine et esad charges gratuits,460,Tunis,,À Louer,20,1,1
+superbe villa meuble au lac 2,4500,Tunis,,À Louer,400,3,5
+studio tres propre s2 a saidia pres station metro,550,Tunis,,À Louer,80,1,3
+bureau neuf s0 residence securisee beb lassal pres metro,450,Tunis,,À Louer,25,1,1
+"appartement propre s2 a, beb dzira",700,Tunis,,À Louer,80,1,3
+S1 luxe meuble a cite jardin pres alain savary,1000,Tunis,,À Louer,55,1,2
+appt s1 propre pres mosquee avenue carthage,430,Tunis,,À Louer,50,1,2
+A vendre magnifique villa inachevee gammarth sup,2648998,Tunis,,À Vendre,600,3,6
+Appartement haut standing S+2,170000,Ben Arous,S+2,À Vendre,107,1,2
+"3 Hectares A Vendre, Terrain Agricole. BIO (Depuis 24 ans+),  128 oliviers+",495000,La Manouba,,,,,
+Superbe villa independante a marsa corniche,2500,Tunis,,À Louer,140,1,3
+Entrepôt à louer 144 mètre carré,1000,La Manouba,,À Louer,144,1,
+طابق أرضي بحي العمران المنستير للبيع,210,Monastir,,À Vendre,114,1,3
+super appartement s3 meuble vue sur mer  a gammarth,2500,Tunis,,À Louer,220,2,4
+appt s3  100m2 titre bleu a cite rommana,200000,Tunis,,À Vendre,101,1,4
+Magasin à louer,10,Sfax,,,,,
+bureaux s3 haut standing meuble et non meuble au lac 2,2300,Tunis,,À Louer,118,1,4
+A vendre un appartement à 350m de plage de Sousse,280000,Sousse,,À Vendre,74,1,2
+S1 tres  propre 2 chambres separees pres mohamed5,800,Tunis,,À Louer,50,1,2
+appartement hall+2 tres propre a carthage yassmina,500,Tunis,,À Louer,70,1,2
+"A louer Gérance libre salon de thé, restaurant à Sousse",15000,Sousse,,À Louer,700,6,2
+A vendre un appartement à usage bureautique centre ville Sousse,107100,Sousse,,À Vendre,63,1,2
+A vendre terrain doubles faces à cité Taamiri Sousse,465500,Sousse,,,,,
+A vendre spacieuse villa avec piscine à Sousse Khezama,2750000,Sousse,,À Vendre,1132,4,6
+A louer étage bureautique à Sahloul,1250,Sousse,,À Louer,220,2,2
+Super s2 meuble prés carrefour champion lafayet,1200,Tunis,,À Louer,120,1,3
+A vendre spacieuse villa golf Kantaoui Sousse,2800000,Sousse,,À Vendre,1111,4,4
+studio tres propre 2 chambres separees a saidia pres station metro,420,Tunis,,À Louer,40,1,2
+A vendre un appartement S+3 vue mer à Corniche Sousse avec place parking,480000,Sousse,S+3,À Vendre,133,1,3
+A vendre Luxueuse villa à Kantaoui Sousse,3250000,Sousse,,À Vendre,740,5,7
+A vendre fond de commerce café et restaurant à Hammam Sousse,150000,Sousse,,À Vendre,195,2,2
+VILLA DE LUXE RAFRAF PLAGE,360000,Bizerte,,À Vendre,315,3,5
+A vendre appartement S+3 vue mer à Corniche Sousse,420000,Sousse,S+3,À Vendre,97,1,3
+S2 renove tres propre a rue beyrout bardo,750,Tunis,,À Louer,80,1,3
+appartement s2 luxe meuble a jardin laouina,1700,Tunis,,À Louer,80,1,3
+Grand s1 haut standing avec balcon au kram,800,Tunis,,À Louer,90,1,2
+appt rez chaussée  hall+3 pres centrale park,800,Tunis,,À Louer,80,1,3
+appt s1 luxe meuble place jean d'arc libre fin novembre,1000,Tunis,,À Louer,65,1,2
+S+1 Meublé  à H- Sousse,700,Sousse,S+1,À Louer,80,1,1
+joli appartement s2 residence gardee  jardin l'aouina,1000,Tunis,,À Louer,80,1,3
+Appt s3 luxe richement meuble marsa ville,2500,Tunis,,À Louer,200,2,4
+S1 et s0,70,Monastir,,À Louer,70,1,1
+appartement luxe hall+2 fin  rue beyrouth bardo,550,Tunis,,À Louer,55,1,2
+"DÉPÔT بومهل 
+250 m",,Ben Arous,,À Louer,250,1,1
+A vendre appartement à monastir,,Monastir,,À Vendre,100,,2
+Hammam Et Villa Tel 98267743,,Ariana,,À Vendre,1100,2,6
+villa,980,Ariana,,À Vendre,405,2,7
+𝔸 𝕍𝔼ℕ𝔻ℝ𝔼 un bel appartement  à Hammamet 29256226,,Nabeul,,À Vendre,109,1,2
+S2 à louer par mois بالشهر,550,Sousse,,À Louer,95,1,2
+Location vacances للكراء صيافي,80,Sousse,,À Louer,123,1,2
+salon 10 places tout neuf+lit 2 places+ 2 coussins + matelas + couette touts neufs,4200,Ariana,,À Vendre,7,7,7
+locale,850,Monastir,,À Louer,180,00,1
+À vendre studio 42²m,38,Nabeul,,À Vendre,42,1,1
+A louer RDC Villa S2 Manar 1,1100,Tunis,,À Louer,105,1,2
+Appartement meublé a louer Tozeur,120,Tozeur,,À Louer,80,1,2
+مقاول27766117,,Ariana,,,,,
+Appartement a louer,550,Ariana,,À Louer,,,
+Bureau en 6 espaces -160m²-Lac 1- IFCL1213,4200,Tunis,,À Louer,160,0,10+
+chambre individuelle dans S3 derrière MG Ariana Soughra,300,Ariana,,À Louer,120,1,3
+A vendre terrain a Hammamet côté sidi hammed,30000,Nabeul,,,,,
+شقق لكراء,,Sousse,,À Louer,78,1,2
+باليوم و الاسبوع,,Sousse,,À Louer,110,1,2
+Local commercial Aouina,2200,Tunis,,À Louer,63,1,1
+Terrain d’habitation  260 m²  à cité merdes kelibia,110000,Nabeul,,,,,
+Terrain 399 m² pieds dans l’eau à hammem ghzeez,440000,Nabeul,,,,,
+A VENDRE un appartement à Afh Mrezga,,Nabeul,,À Vendre,116,1,2
+Studio,800,Sousse,,,,,
+𝐀 𝐕𝐄𝐍𝐃𝐑𝐄 un terrain à Nabeul,70,Nabeul,,,,,
+A VENDRE une  villa  située à Hammamet sud,,Nabeul,,À Vendre,485,2,4
+A vendre maison à cité iben khaldoune,,Tunis,,À Vendre,95,2,5
+A vendre une belle maison située à Birbouragba Hammamet,,Nabeul,,À Vendre,460,1,3
+Terrain 200 m a vendre,360,Tunis,,,,,
+A Louer appartement  à Mourouj,,Ben Arous,,À Louer,100,1,4
+أرض قريبة من المدرسة الوطنية للمهندسين بسوسة ومؤسسات جامعية اخرى مساحتها 220متر,,Sousse,,,,,
+studio Omrane Supérieur,200,Tunis,,À Louer,55,1,2
+أرض للبيع في القلعة الكبرى,93000,Sousse,,,,,
+A LOUER S+1 MEUBLE AVEC PLACE PARKING,1350,Tunis,S+1,À Louer,80,1,2
+A vendre un terrain  :  930m²,1500,Nabeul,,,,,
+Appartement â vendre s+1 re de chosé 65 mètre carré surface enkhilet el mansoura ariana,95000000,Ariana,,À Vendre,65,1,2
+مقاول بناء 55670596,500,Ariana,,À Louer,100,1,3
+S+1 Rte soukra km 1 SFAX,620,Sfax,S+1,À Louer,75,1,1
+Appartement  s + 2  en premier étage.,450,Nabeul,,À Louer,90,1,2
+A vendre un bel appartement  à Hammamet 29256525,,Nabeul,,À Vendre,98,1,2
+S1 meublé Ennasr2 Excellent pour étranger à l'année,1200,Ariana,,À Louer,75,1,1
+Appartement S+3 à cité Hédi Nouira,1000,Ariana,S+3,À Louer,100,2,3
+location maison meublé,60,Jendouba,,À Louer,120,1,3
+Bureau à louer à El Manar 2,,Tunis,,À Louer,90,1,2
+Vente terrain à Gabès - Zone stratégique,,Gabès,,,,,
+A vendre un appartement S+2 prés de la plage Citronnier Hammamet 29256525,,Nabeul,S+2,À Vendre,80,1,2
+STUDIO A LOUER à Cité Ghazela,550,Ariana,,À Louer,60,,2
+A vendre une villa S+4 avec piscine à Monchar Hammamet Sud 29256525,,Nabeul,S+4,À Vendre,800,2,4
+Appartement METLINE,250000,Bizerte,,À Vendre,130,2,3
+Local à louer,750,Sfax,,À Vendre,140,1,1
+maison 500m2 yasmine hammamet 180.000 MD,180000,Nabeul,,À Vendre,500,2,3
+Bureau ou stockage s+2 a louer ariana,700,Ariana,,À Louer,40,1,2
+Local commercial à vendre,,Sfax,,À Vendre,1650,1,1
+appartement meublé par jour une chambre salon à Tunis route la Marsa Aouina wifi illimité,80,Tunis,,À Louer,65,1,2
+À Vendre : 1/10e d'un Immeuble – Deux Appartements au 100m de Sfax,159999,Sfax,,À Vendre,96,2,5
+2 locaux  à usage bureaux à vendre ou à louer,111,Tunis,,À Vendre,100,0000,1111
+قطعة ارض كائنة بمنتزه راس الكاف في تقسيم الوكالة العقارية للسكنى تمسح قرابة 300 متر مربع,90,Gafsa,,,,,
+أرض للبيع في سيدي منصور,27000,Sfax,,À Vendre,575,1,1
+location appartement de vacances une chambre salon à Tunis route la Marsa Aouina par nuit,80,Tunis,,À Louer,75,1,2
+Lot de terrain à vendre sanhaji -  mnihla,102800,Ariana,,,,,
+🏠𝐉𝐚𝐫𝐝𝐢𝐧𝐬 𝐝'𝐞𝐥 𝐌𝐞𝐧𝐳𝐚𝐡 ; 𝐚̀ 𝐋𝐨𝐮𝐞𝐫 𝐬𝐩𝐚𝐜𝐢𝐞𝐮𝐱 𝐑𝐃C 𝐕𝐈𝐋𝐋𝐀 𝐒+𝟑 🏠,,Ariana,,À Louer,150,2,3
+S1 S2 meublé,,Sousse,,À Louer,112,1,2
+location estivale,,Sousse,,À Louer,180,1,2
+"لكراء في سوسة باليوم و الاسبوع 
+22707177
+Une bonne affaire pour profiter des vacances a sousse 
+🏩A louer  par nuitée",,Sousse,,À Louer,102,1,2
+🏠 ENNASR  ; A LOUER APPT S+2 HAUT STG🏠,,Ariana,S+2,À Louer,130,2,2
+Studio à sahloul 4,400,Sousse,,À Louer,,1,0
+un spacieux réez de chaussé à louer à Kantaoui-sousse . .,1500,Sousse,,À Louer,1,2,2
+S+1/2/3 luxueux meublés par nuitée,70,Ariana,S+1,À Louer,100,2,2
+a louer magasin 42 m2,,Sfax,,À Louer,42,1,1
+Riadh el Andalous à louer s+2 étage villa,900,Ariana,,À Louer,150,1,2
+terrain de 2200 m2,300,Nabeul,,,,,
+un joli appartement s+2 à sahloul,850,Sousse,,À Louer,100,2,2
+أرض فلاحية 15 هكتار قوي بلبنة الإتضال ب 57219778,35000,Nabeul,,,,,
+A vendre un appartement S4 à Ain Zaghouan Nord,620000,Tunis,,À Vendre,202,2,4
+Etage de villa S+1 haut standing,680,Ariana,S+1,À Louer,90,0,1
+Riadh el Andalous à louer s+1,795,Ariana,,À Louer,70,1,1
+location appartement meublé à aouina,70,Tunis,,À Louer,80,1,2
+location vacances à Tunis route la Marsa cité les palmeraies Aouina appartement stérilisé hygiène garantie,80,Tunis,,À Louer,65,1,2
+location appartement meublé par jour trois chambres salon à Tunis route la Marsa cité les palmeraies Aouina,100,Tunis,,À Louer,150,2,3
+ارض فلاحيه,125,Sfax,,,,,
+Vente appartement S+1 à Riadh Landalous,195000,Ariana,S+1,À Vendre,67,1,1
+"une villa s+3 style américain avec un studio, jardin et entrée voiture",2500,Sousse,,À Louer,170,2,3
+un joli appartement s+3 à khzema charkia,900,Sousse,,À Louer,100,2,3
+A louer villa S+4 avec spacieux jardin.,3800,Ariana,S+4,À Louer,1500,2,4
+Bureau 118 m2 à La Soukra,1900,Ariana,,À Louer,118,2,2
+Villa 520 m² à Menzah 9 B,980000,Tunis,,À Vendre,520,4,6
+مقاول entrepreneur 94270011,300,La Manouba,,,,,
+appartement s1 meublé par nuitee à l aouina Hay wahat,90,Tunis,,À Louer,70,1,2
+villa à Hammamet (S+2) R.D.C ou étage,70,Nabeul,S+2,À Louer,100,1,3
+Appartement s+1 meuble Jardins de L' aouina,1200,Tunis,,À Louer,55,1,-1
+شقق مفروشة للايجار في تونس العاصمة للعائلات باليوم 46347310,80,Tunis,,À Louer,200,1,2
+"Agréable appartement S+1 , station métro technopole",535,La Manouba,S+1,À Louer,60,1,2
+A vendre Terrain de 320 m² à Menzel Jemil Bizerte,145000,Bizerte,,,,,
+"Villa authentique à louer , la marsa",,Tunis,,,1000,4,10
+A Louer Local de 33 m² à Ben arous,650,Ben Arous,,À Louer,33,1,1
+A vendre terrain de 443 m² à Rades,300000,Ben Arous,,,,,
+a louer un rez-de-chaussée de villa en S+3 à Menzah 9,1700,Tunis,S+3,À Louer,170,2,3
+A vendre FC de 130 m² aux jardins d'el menzah 1,140000,Ariana,,À Vendre,130,1,1
+A vendre villa de 400 m² sur un terrain de 485 m² à Hammam Chatt,650000,Ben Arous,,À Vendre,485,3,6
+terrain vue panoramique,65,La Manouba,,,,,
+location par nuitées S+1 & S+2 haut standing sans coupure d'eau,80,Monastir,S+1,À Louer,90,1,2
+𝔸 𝕍𝔼ℕ𝔻ℝ𝔼 une maison à Beni khiar Nabeul 29256226,,Nabeul,,À Vendre,200,1,2
